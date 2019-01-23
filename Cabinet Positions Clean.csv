@@ -1,0 +1,761 @@
+ID,FirstName,LastName,Position,StartDate,EndDate,Administration,AdministrationFirst,Acting,DepatureReason,TermLength,PresName
+1,Thomas,Jefferson,Secretary of State,1790-03-22,1793-12-31,Washington,George,0,Resigned,1380,George Washington
+2,Edmund,Randolph,Secretary of State,1794-01-02,1795-08-20,Washington,George,0,Resigned,595,George Washington
+3,Timothy,Pickering,Secretary of State,1795-12-10,1797-03-04,Washington,George,0,End of President's term,450,George Washington
+4,Alexander,Hamilton,Secretary of the Treasury,1789-09-11,1795-01-31,Washington,George,0,NA,1968,George Washington
+5,Henry,Knox,Secretary of War,1789-09-12,1794-12-31,Washington,George,0,NA,1936,George Washington
+6,Timothy,Pickering,Secretary of War,1795-01-02,1795-12-10,Washington,George,0,NA,342,George Washington
+7,Edmund,Randolph,Attorney General,1789-09-26,1794-01-26,Washington,George,0,NA,1583,George Washington
+8,William,Bradford,Attorney General,1794-01-27,1795-08-23,Washington,George,0,NA,573,George Washington
+9,Charles,Lee,Attorney General,1797-03-04,1801-02-19,Adams,John,0,NA,1447,John Adams
+10,Charles,Lee,Attorney General,1795-12-10,1797-03-04,Washington,George,0,NA,450,George Washington
+11,Timothy,Pickering,Secretary of State,1797-03-04,1800-05-12,Adams,John,0,Dismissed,1164,John Adams
+12,John,Marshall,Secretary of State,1800-06-06,1801-02-04,Adams,John,0,Appointed to Another Position,243,John Adams
+13,Oliver,"Wolcott, Jr.",Secretary of the Treasury,1795-02-03,1797-03-03,Washington,George,0,NA,759,George Washington
+14,Oliver,"Wolcott, Jr.",Secretary of the Treasury,1797-03-04,1800-12-31,Adams,John,0,NA,1397,John Adams
+15,James,McHenry,Secretary of War,1796-01-27,1800-06-01,Adams,John,0,NA,1586,John Adams
+16,Samuel,Dexter,Secretary of War,1800-06-01,1801-01-31,Adams,John,0,NA,244,John Adams
+17,Benjamin,Stoddert,Secretary of the Navy,1798-06-18,1801-03-31,Adams,John,0,NA,1016,John Adams
+19,James,Madison,Secretary of State,1801-05-02,1809-03-03,Jefferson,Thomas,0,End of President's term,2862,Thomas Jefferson
+20,Samuel,Dexter,Secretary of the Treasury,1801-01-01,1801-03-03,Adams,John,0,NA,61,John Adams
+21,Samuel,Dexter,Secretary of the Treasury,1801-03-04,1801-05-06,Jefferson,Thomas,0,NA,63,Thomas Jefferson
+22,Albert,Gallatin,Secretary of the Treasury,1801-05-14,1809-03-03,Jefferson,Thomas,0,NA,2850,Thomas Jefferson
+23,Albert,Gallatin,Secretary of the Treasury,1809-03-04,1814-02-09,Madison,James,0,NA,1803,James Madison
+24,Henry,Dearborn,Secretary of War,1801-03-05,1809-03-04,Jefferson,Thomas,0,NA,2921,Thomas Jefferson
+25,William,Eustis,Secretary of War,1809-03-07,1813-01-13,Madison,James,0,NA,1408,James Madison
+26,Levi,"Lincoln, Sr.",Attorney General,1801-03-05,1805-03-02,Jefferson,Thomas,0,NA,1458,Thomas Jefferson
+27,John,Breckinridge,Attorney General,1805-08-07,1806-12-14,Jefferson,Thomas,0,NA,494,Thomas Jefferson
+28,Caesar A.,Rodney,Attorney General,1809-03-04,1811-12-10,Madison,James,0,NA,1011,James Madison
+29,Caesar A.,Rodney,Attorney General,1807-01-20,1809-03-04,Jefferson,Thomas,0,NA,774,Thomas Jefferson
+30,Robert,Smith,Secretary of the Navy,1801-07-27,1809-03-07,Jefferson,Thomas,0,NA,2780,Thomas Jefferson
+31,Robert,Smith,Secretary of State,1809-03-06,1811-04-01,Madison,James,0,Resigned,756,James Madison
+32,James,Monroe,Secretary of State,1811-04-06,1814-10-01,Madison,James,0,Appointed to Another Position,1274,James Madison
+33,George W.,Campbell,Secretary of the Treasury,1814-02-09,1814-09-26,Madison,James,0,NA,229,James Madison
+34,Alexander J.,Dallas,Secretary of the Treasury,1814-10-06,1816-10-21,Madison,James,0,NA,746,James Madison
+35,John,Armstrong,Secretary of War,1813-01-13,1814-09-27,Madison,James,0,NA,622,James Madison
+36,James,Monroe,Secretary of War,1814-09-27,1815-03-02,Madison,James,0,NA,156,James Madison
+37,William H.,Crawford,Secretary of War,1815-08-01,1816-10-22,Madison,James,0,NA,448,James Madison
+38,William,Pinckney,Attorney General,1811-12-11,1814-02-09,Madison,James,0,NA,791,James Madison
+39,Richard,Rush,Attorney General,1817-03-04,1817-11-12,Monroe,James,0,NA,253,James Monroe
+40,Richard,Rush,Attorney General,1814-02-10,1817-03-04,Madison,James,0,NA,1118,James Madison
+41,Paul,Hamilton,Secretary of the Navy,1809-05-15,1812-12-31,Madison,James,0,NA,1326,James Madison
+42,William,Jones,Secretary of the Navy,1813-01-19,1814-01-12,Madison,James,0,NA,358,James Madison
+43,B. W.,Crowninshield,Secretary of the Navy,1815-01-16,1817-03-04,Madison,James,0,NA,778,James Madison
+44,B. W.,Crowninshield,Secretary of the Navy,1817-03-04,1818-09-30,Monroe,James,0,NA,575,James Monroe
+46,James,Monroe,Secretary of State,1815-02-28,1817-03-03,Madison,James,0,End of President's term,734,James Madison
+47,John Quincy,Adams,Secretary of State,1817-09-22,1825-03-03,Monroe,James,0,End of President's term,2719,James Monroe
+48,William H.,Crawford,Secretary of the Treasury,1816-10-22,1817-03-03,Madison,James,0,NA,132,James Madison
+49,William H.,Crawford,Secretary of the Treasury,1817-03-04,1825-03-03,Monroe,James,0,NA,2921,James Monroe
+50,John C.,Calhoun,Secretary of War,1817-10-08,1825-03-04,Monroe,James,0,NA,2704,James Monroe
+51,Smith,Thompson,Secretary of the Navy,1819-01-01,1823-08-31,Monroe,James,0,NA,1703,James Monroe
+52,Samuel L.,Southard,Secretary of the Navy,1823-09-16,1825-03-04,Monroe,James,0,NA,535,James Monroe
+53,Samuel L.,Southard,Secretary of the Navy,1825-03-04,1829-03-03,Adams,John Quincy,0,NA,1460,John Quincy Adams
+54,Henry,Clay,Secretary of State,1825-03-07,1829-03-03,Adams,John Quincy,0,End of President's term,1457,John Quincy Adams
+55,Richard,Rush,Secretary of the Treasury,1825-03-07,1829-03-03,Adams,John Quincy,0,NA,1457,John Quincy Adams
+56,James,Barbour,Secretary of War,1825-03-07,1828-05-23,Adams,John Quincy,0,NA,1173,John Quincy Adams
+57,Peter B.,Porter,Secretary of War,1828-05-23,1829-03-09,Adams,John Quincy,0,NA,290,John Quincy Adams
+58,William,Wirt,Attorney General,1817-11-13,1825-03-04,Monroe,James,0,NA,2668,James Monroe
+59,William,Wirt,Attorney General,1825-03-04,1829-03-04,Adams,John Quincy,0,NA,1461,John Quincy Adams
+60,Martin,Van Buren,Secretary of State,1829-03-28,1831-05-23,Jackson,Andrew,0,Resigned,786,Andrew Jackson
+61,Edward,Livingston,Secretary of State,1831-05-24,1833-05-29,Jackson,Andrew,0,Replaced,736,Andrew Jackson
+62,Louis,McLane,Secretary of State,1833-05-29,1834-06-30,Jackson,Andrew,0,Resigned,397,Andrew Jackson
+63,John,Forsyth,Secretary of State,1837-03-04,1841-03-03,Van Buren,Martin,0,End of President's term,1460,Martin Van Buren
+64,John,Forsyth,Secretary of State,1834-07-01,1837-03-04,Jackson,Andrew,0,End of President's term,977,Andrew Jackson
+65,Samuel D.,Ingham,Secretary of the Treasury,1829-03-06,1831-06-20,Jackson,Andrew,0,NA,836,Andrew Jackson
+66,Louis,McLane,Secretary of the Treasury,1831-08-08,1833-05-28,Jackson,Andrew,0,NA,659,Andrew Jackson
+67,William J.,Duane,Secretary of the Treasury,1833-05-29,1833-09-23,Jackson,Andrew,0,NA,117,Andrew Jackson
+68,Roger B.,Taney,Secretary of the Treasury,1833-09-23,1834-06-24,Jackson,Andrew,0,NA,274,Andrew Jackson
+69,Levi,Woodbury,Secretary of the Treasury,1834-07-01,1837-03-03,Jackson,Andrew,0,NA,976,Andrew Jackson
+70,Levi,Woodbury,Secretary of the Treasury,1837-03-04,1841-03-03,Van Buren,Martin,0,NA,1460,Martin Van Buren
+71,John H.,Eaton,Secretary of War,1829-03-09,1831-06-18,Jackson,Andrew,0,NA,831,Andrew Jackson
+72,Lewis,Cass,Secretary of War,1831-08-01,1836-10-05,Jackson,Andrew,0,NA,1892,Andrew Jackson
+73,John M.,Berrien,Attorney General,1829-03-09,1831-07-19,Jackson,Andrew,0,NA,862,Andrew Jackson
+74,Roger B.,Taney,Attorney General,1831-07-20,1833-11-14,Jackson,Andrew,0,NA,848,Andrew Jackson
+75,Benjamin F.,Butler,Attorney General,1837-03-04,1838-07-04,Van Buren,Martin,0,NA,487,Martin Van Buren
+76,Benjamin F.,Butler,Attorney General,1833-11-15,1837-03-04,Jackson,Andrew,0,NA,1205,Andrew Jackson
+77,John,Branch,Secretary of the Navy,1829-03-09,1831-05-12,Jackson,Andrew,0,NA,794,Andrew Jackson
+78,Levi,Woodbury,Secretary of the Navy,1831-05-23,1834-06-30,Jackson,Andrew,0,NA,1134,Andrew Jackson
+79,William T.,Barry,Postmaster General,1829-03-09,1835-04-10,Jackson,Andrew,0,NA,2223,Andrew Jackson
+80,Amos,Kendall,Postmaster General,1835-05-01,1837-03-04,Jackson,Andrew,0,NA,673,Andrew Jackson
+81,Amos,Kendall,Postmaster General,1837-03-04,1840-05-18,Van Buren,Martin,0,NA,1171,Martin Van Buren
+82,Joel R.,Poinsett,Secretary of War,1837-03-07,1841-03-04,Van Buren,Martin,0,NA,1458,Martin Van Buren
+83,Felix,Grundy,Attorney General,1838-07-05,1840-01-10,Van Buren,Martin,0,NA,554,Martin Van Buren
+84,Henry D.,Gilpin,Attorney General,1840-01-11,1841-03-04,Van Buren,Martin,0,NA,418,Martin Van Buren
+85,John M.,Niles,Postmaster General,1840-05-19,1841-03-04,Van Buren,Martin,0,NA,289,Martin Van Buren
+86,Mahlon,Dickerson,Secretary of the Navy,1834-07-01,1837-03-04,Jackson,Andrew,0,NA,977,Andrew Jackson
+87,Mahlon,Dickerson,Secretary of the Navy,1837-03-04,1838-06-30,Van Buren,Martin,0,NA,483,Martin Van Buren
+88,James K.,Paulding,Secretary of the Navy,1838-07-01,1841-03-04,Van Buren,Martin,0,NA,977,Martin Van Buren
+89,Daniel,Webster,Secretary of State,1841-04-04,1843-05-08,Tyler,John,0,Resigned,764,John Tyler
+90,Daniel,Webster,Secretary of State,1841-03-06,1841-04-04,Harrison,William Henry,0,End of President's term,29,William Henry Harrison
+91,Thomas,Ewing,Secretary of the Treasury,1841-03-05,1841-04-04,Harrison,William Henry,0,NA,30,William Henry Harrison
+92,Thomas,Ewing,Secretary of the Treasury,1841-04-05,1841-09-11,Tyler,John,0,NA,159,John Tyler
+93,John,Bell,Secretary of War,1841-03-05,1841-04-04,Harrison,William Henry,0,NA,30,William Henry Harrison
+94,John,Bell,Secretary of War,1841-04-04,1841-09-13,Tyler,John,0,NA,162,John Tyler
+95,John J.,Crittenden,Attorney General,1841-04-04,1841-09-12,Tyler,John,0,NA,161,John Tyler
+96,John J.,Crittenden,Attorney General,1841-03-05,1841-04-04,Harrison,William Henry,0,NA,30,William Henry Harrison
+97,Francis,Granger,Postmaster General,1841-03-06,1841-04-04,Harrison,William Henry,0,NA,29,William Henry Harrison
+98,Francis,Granger,Postmaster General,1841-04-04,1841-09-18,Tyler,John,0,NA,167,John Tyler
+99,George E.,Badger,Secretary of the Navy,1841-03-06,1841-04-04,Harrison,William Henry,0,NA,29,William Henry Harrison
+100,George E.,Badger,Secretary of the Navy,1841-04-04,1841-09-11,Tyler,John,0,NA,160,John Tyler
+101,Abel P.,Upshur,Secretary of State,1843-07-24,1844-02-28,Tyler,John,0,Died in Office,219,John Tyler
+103,John C.,Calhoun,Secretary of State,1844-04-01,1845-03-10,Tyler,John,0,End of President's term,343,John Tyler
+104,Walter,Forward,Secretary of the Treasury,1841-09-13,1843-03-01,Tyler,John,0,NA,534,John Tyler
+105,John C.,Spencer,Secretary of the Treasury,1843-03-08,1844-05-02,Tyler,John,0,NA,421,John Tyler
+106,George M.,Bibb,Secretary of the Treasury,1844-07-04,1845-03-07,Tyler,John,0,NA,246,John Tyler
+107,John C.,Spencer,Secretary of War,1841-10-12,1843-03-04,Tyler,John,0,NA,508,John Tyler
+108,James M.,Porter,Secretary of War,1843-03-08,1844-02-14,Tyler,John,0,NA,343,John Tyler
+109,William,Wilkins,Secretary of War,1844-02-15,1845-03-04,Tyler,John,0,NA,383,John Tyler
+110,Hugh S.,Legare,Attorney General,1841-09-13,1843-06-20,Tyler,John,0,NA,645,John Tyler
+111,John,Nelson,Attorney General,1843-07-01,1845-03-04,Tyler,John,0,NA,612,John Tyler
+112,Charles A.,Wickliffe,Postmaster General,1841-09-13,1845-03-04,Tyler,John,0,NA,1268,John Tyler
+113,Abel P.,Upshur,Secretary of the Navy,1841-10-11,1843-07-23,Tyler,John,0,NA,650,John Tyler
+114,David,Henshaw,Secretary of the Navy,1843-07-24,1844-02-18,Tyler,John,0,NA,209,John Tyler
+115,Thomas W.,Gilmer,Secretary of the Navy,1844-02-19,1844-02-28,Tyler,John,0,NA,9,John Tyler
+116,John Y.,Mason,Secretary of the Navy,1844-03-26,1845-03-10,Tyler,John,0,NA,349,John Tyler
+117,James,Buchanan,Secretary of State,1845-03-10,1849-03-07,Polk,James K.,0,End of President's term,1458,James K. Polk
+118,Robert J.,Walker,Secretary of the Treasury,1845-03-08,1849-03-05,Polk,James K.,0,NA,1458,James K. Polk
+119,William L.,Marcy,Secretary of War,1845-03-06,1849-03-04,Polk,James K.,0,NA,1459,James K. Polk
+120,John Y.,Mason,Attorney General,1845-03-05,1846-10-16,Polk,James K.,0,NA,590,James K. Polk
+121,Nathan,Clifford,Attorney General,1846-10-17,1848-03-17,Polk,James K.,0,NA,517,James K. Polk
+122,Isaac,Toucey,Attorney General,1848-06-21,1849-03-04,Polk,James K.,0,NA,256,James K. Polk
+123,Cave,Johnson,Postmaster General,1845-03-06,1849-03-04,Polk,James K.,0,NA,1459,James K. Polk
+124,George,Bancroft,Secretary of the Navy,1845-03-11,1846-09-09,Polk,James K.,0,NA,547,James K. Polk
+125,John Y.,Mason,Secretary of the Navy,1846-09-10,1849-03-07,Polk,James K.,0,NA,909,James K. Polk
+126,John M.,Clayton,Secretary of State,1850-07-09,1850-07-22,Fillmore,Millard,0,Resigned,13,Millard Fillmore
+127,John M.,Clayton,Secretary of State,1849-03-08,1850-07-09,Taylor,Zachary,0,End of President's term,488,Zachary Taylor
+128,William M.,Meredith,Secretary of the Treasury,1849-03-08,1850-07-22,Taylor,Zachary,0,NA,501,Zachary Taylor
+129,George W.,Crawford,Secretary of War,1849-03-08,1850-07-22,Taylor,Zachary,0,NA,501,Zachary Taylor
+130,Reverdy,Johnson,Attorney General,1849-03-08,1850-07-21,Taylor,Zachary,0,NA,500,Zachary Taylor
+131,Jacob,Collamer,Postmaster General,1849-03-08,1850-07-22,Taylor,Zachary,0,NA,501,Zachary Taylor
+132,William B.,Preston,Secretary of the Navy,1849-03-08,1850-07-22,Taylor,Zachary,0,NA,501,Zachary Taylor
+133,Thomas,Ewing,Secretary of the Interior,1849-03-08,1850-07-22,Taylor,Zachary,0,NA,501,Zachary Taylor
+134,Daniel,Webster,Secretary of State,1850-07-23,1852-10-24,Fillmore,Millard,0,Died in Office,824,Millard Fillmore
+135,Edward,Everett,Secretary of State,1852-11-06,1853-03-03,Fillmore,Millard,0,End of President's term,117,Millard Fillmore
+136,Thomas,Corwin,Secretary of the Treasury,1850-07-23,1853-03-06,Fillmore,Millard,0,NA,957,Millard Fillmore
+137,Charles M.,Conrad,Secretary of War,1850-08-15,1853-03-04,Fillmore,Millard,0,NA,932,Millard Fillmore
+138,John J.,Crittenden,Attorney General,1850-07-22,1853-03-04,Fillmore,Millard,0,NA,956,Millard Fillmore
+139,Nathan K.,Hall,Postmaster General,1850-07-23,1852-08-31,Fillmore,Millard,0,NA,770,Millard Fillmore
+140,Samuel D.,Hubbard,Postmaster General,1852-08-31,1853-03-07,Fillmore,Millard,0,NA,188,Millard Fillmore
+141,William A.,Graham,Secretary of the Navy,1850-08-02,1852-07-25,Fillmore,Millard,0,NA,723,Millard Fillmore
+142,John P.,Kennedy,Secretary of the Navy,1852-07-26,1853-03-04,Fillmore,Millard,0,NA,221,Millard Fillmore
+143,Thos. M. T.,McKennan,Secretary of the Interior,1850-08-15,1850-08-26,Fillmore,Millard,0,NA,11,Millard Fillmore
+144,Alex H. H.,Stuart,Secretary of the Interior,1850-09-14,1853-03-07,Fillmore,Millard,0,NA,905,Millard Fillmore
+145,William L.,Marcy,Secretary of State,1853-03-08,1857-03-06,Pierce,Franklin,0,End of President's term,1459,Franklin Pierce
+146,James,Guthrie,Secretary of the Treasury,1853-03-07,1857-03-06,Pierce,Franklin,0,NA,1460,Franklin Pierce
+147,Jefferson,Davis,Secretary of War,1853-03-07,1857-03-04,Pierce,Franklin,0,NA,1458,Franklin Pierce
+148,Caleb,Cushing,Attorney General,1853-03-07,1857-03-04,Pierce,Franklin,0,NA,1458,Franklin Pierce
+149,James,Campbell,Postmaster General,1853-03-07,1857-03-04,Pierce,Franklin,0,NA,1458,Franklin Pierce
+150,James C.,Dobbin,Secretary of the Navy,1853-03-08,1857-03-06,Pierce,Franklin,0,NA,1459,Franklin Pierce
+151,Robert,McClelland,Secretary of the Interior,1853-03-08,1857-03-09,Pierce,Franklin,0,NA,1462,Franklin Pierce
+152,Lewis,Cass,Secretary of State,1857-03-06,1860-12-14,Buchanan,James,0,Resigned,1379,James Buchanan
+153,Jeremiah S.,Black,Secretary of State,1860-12-19,1861-03-05,Buchanan,James,0,End of President's term,76,James Buchanan
+154,Howell,Cobb,Secretary of the Treasury,1857-03-07,1860-12-08,Buchanan,James,0,NA,1372,James Buchanan
+155,Philip F.,Thomas,Secretary of the Treasury,1860-12-12,1861-01-14,Buchanan,James,0,NA,33,James Buchanan
+156,John A.,Dix,Secretary of the Treasury,1861-01-15,1861-03-06,Buchanan,James,0,NA,50,James Buchanan
+157,John B.,Floyd,Secretary of War,1857-03-06,1860-12-29,Buchanan,James,0,NA,1394,James Buchanan
+158,Joseph,Holt,Secretary of War,1861-01-18,1861-03-04,Buchanan,James,0,NA,45,James Buchanan
+159,Jeremiah S.,Black,Attorney General,1857-03-06,1860-12-16,Buchanan,James,0,NA,1381,James Buchanan
+160,Edwin M.,Stanton,Attorney General,1860-12-20,1861-03-04,Buchanan,James,0,NA,74,James Buchanan
+161,Aaron V.,Brown,Postmaster General,1857-03-06,1859-03-08,Buchanan,James,0,NA,732,James Buchanan
+162,Joseph,Holt,Postmaster General,1859-03-14,1860-12-31,Buchanan,James,0,NA,658,James Buchanan
+163,Horatio,King,Postmaster General,1861-02-12,1861-03-07,Buchanan,James,0,NA,23,James Buchanan
+164,Isaac,Toucey,Secretary of the Navy,1857-03-07,1861-03-06,Buchanan,James,0,NA,1460,James Buchanan
+165,Jacob,Thompson,Secretary of the Interior,1857-03-10,1861-01-08,Buchanan,James,0,NA,1400,James Buchanan
+166,William H.,Seward,Secretary of State,1865-04-15,1869-03-04,Johnson,Andrew,0,End of President's term,1419,Andrew Johnson
+167,William H.,Seward,Secretary of State,1861-03-05,1865-04-15,Lincoln,Abraham,0,End of President's term,1502,Abraham Lincoln
+168,Salmon P.,Chase,Secretary of the Treasury,1861-03-07,1864-06-30,Lincoln,Abraham,0,NA,1211,Abraham Lincoln
+169,William P.,Fessenden,Secretary of the Treasury,1864-07-05,1865-03-03,Lincoln,Abraham,0,NA,241,Abraham Lincoln
+170,Hugh,McCulloch,Secretary of the Treasury,1865-03-09,1865-04-15,Lincoln,Abraham,0,NA,37,Abraham Lincoln
+171,Hugh,McCulloch,Secretary of the Treasury,1865-04-15,1869-03-03,Johnson,Andrew,0,NA,1418,Andrew Johnson
+172,Simon,Cameron,Secretary of War,1861-03-05,1862-01-14,Lincoln,Abraham,0,NA,315,Abraham Lincoln
+173,Edwin M.,Stanton,Secretary of War,1862-01-20,1865-04-15,Lincoln,Abraham,0,NA,1181,Abraham Lincoln
+174,Edwin M.,Stanton,Secretary of War,1865-04-15,1868-05-28,Johnson,Andrew,0,NA,1139,Andrew Johnson
+175,Edward,Bates,Attorney General,1861-03-05,1864-11-24,Lincoln,Abraham,0,NA,1360,Abraham Lincoln
+176,James,Speed,Attorney General,1865-04-15,1866-07-22,Johnson,Andrew,0,NA,463,Andrew Johnson
+177,James,Speed,Attorney General,1864-12-02,1865-04-15,Lincoln,Abraham,0,NA,134,Abraham Lincoln
+178,Montgomery,Blair,Postmaster General,1861-03-05,1864-09-24,Lincoln,Abraham,0,NA,1299,Abraham Lincoln
+179,William,Dennison,Postmaster General,1864-09-24,1865-04-15,Lincoln,Abraham,0,NA,203,Abraham Lincoln
+180,William,Dennison,Postmaster General,1865-04-15,1866-07-25,Johnson,Andrew,0,NA,466,Andrew Johnson
+181,Gideon,Welles,Secretary of the Navy,1861-03-07,1865-04-15,Lincoln,Abraham,0,NA,1500,Abraham Lincoln
+182,Gideon,Welles,Secretary of the Navy,1865-04-15,1869-03-03,Johnson,Andrew,0,NA,1418,Andrew Johnson
+183,Caleb B.,Smith,Secretary of the Interior,1861-03-05,1862-12-31,Lincoln,Abraham,0,NA,666,Abraham Lincoln
+184,John P.,Usher,Secretary of the Interior,1863-01-01,1865-04-14,Lincoln,Abraham,0,NA,834,Abraham Lincoln
+185,John P.,Usher,Secretary of the Interior,1865-04-14,1865-05-15,Johnson,Andrew,0,NA,31,Andrew Johnson
+186,John M.,Schofield,Secretary of War,1868-06-01,1869-03-13,Johnson,Andrew,0,NA,285,Andrew Johnson
+187,Henry,Stanbery,Attorney General,1866-07-23,1868-07-16,Johnson,Andrew,0,NA,724,Andrew Johnson
+188,William M.,Evarts,Attorney General,1868-07-17,1869-03-04,Johnson,Andrew,0,NA,230,Andrew Johnson
+189,Alexander W.,Randall,Postmaster General,1866-07-25,1869-03-04,Johnson,Andrew,0,NA,953,Andrew Johnson
+190,James,Harlan,Secretary of the Interior,1865-05-16,1866-08-31,Johnson,Andrew,0,NA,472,Andrew Johnson
+191,Orville H.,Browning,Secretary of the Interior,1866-09-01,1869-03-04,Johnson,Andrew,0,NA,915,Andrew Johnson
+192,Elihu B.,Washborne,Secretary of State,1869-03-05,1869-03-16,Grant,Ulysses S.,0,Resigned,11,Ulysses S. Grant
+193,Hamilton,Fish,Secretary of State,1877-03-04,1877-03-11,Hayes,Rutherford B.,0,Resigned,7,Rutherford B. Hayes
+194,Hamilton,Fish,Secretary of State,1869-03-16,1877-03-04,Grant,Ulysses S.,0,End of President's term,2910,Ulysses S. Grant
+195,George S.,Boutwell,Secretary of the Treasury,1869-03-12,1873-03-16,Grant,Ulysses S.,0,NA,1465,Ulysses S. Grant
+196,William A.,Richardson,Secretary of the Treasury,1873-03-17,1874-06-03,Grant,Ulysses S.,0,NA,443,Ulysses S. Grant
+197,Benjamin H.,Bristow,Secretary of the Treasury,1874-06-04,1876-06-20,Grant,Ulysses S.,0,NA,747,Ulysses S. Grant
+198,Lot M.,Morrill,Secretary of the Treasury,1876-07-07,1877-03-09,Grant,Ulysses S.,0,NA,245,Ulysses S. Grant
+199,John A.,Rawlins,Secretary of War,1869-03-13,1869-09-06,Grant,Ulysses S.,0,NA,177,Ulysses S. Grant
+200,William W.,Belknap,Secretary of War,1869-10-25,1876-03-02,Grant,Ulysses S.,0,NA,2320,Ulysses S. Grant
+201,Alphonso,Taft,Secretary of War,1876-03-08,1876-05-22,Grant,Ulysses S.,0,NA,75,Ulysses S. Grant
+202,James D.,Cameron,Secretary of War,1876-05-22,1877-03-04,Grant,Ulysses S.,0,NA,286,Ulysses S. Grant
+203,Ebenezer R.,Hoar,Attorney General,1869-03-05,1870-11-22,Grant,Ulysses S.,0,NA,627,Ulysses S. Grant
+204,Amos T.,Akerman,Attorney General,1870-11-23,1871-12-13,Grant,Ulysses S.,0,NA,385,Ulysses S. Grant
+205,George H.,Williams,Attorney General,1871-12-14,1875-04-25,Grant,Ulysses S.,0,NA,1228,Ulysses S. Grant
+206,Edwards,Pierrepont,Attorney General,1875-04-26,1876-05-21,Grant,Ulysses S.,0,NA,391,Ulysses S. Grant
+207,Alphonso,Taft,Attorney General,1876-05-22,1877-03-04,Grant,Ulysses S.,0,NA,286,Ulysses S. Grant
+208,John A. J.,Creswell,Postmaster General,1869-03-05,1874-06-22,Grant,Ulysses S.,0,NA,1935,Ulysses S. Grant
+209,James,Marshall,Postmaster General,1874-07-03,1874-08-24,Grant,Ulysses S.,0,NA,52,Ulysses S. Grant
+210,Marshall,Jewell,Postmaster General,1874-08-24,1876-07-12,Grant,Ulysses S.,0,NA,688,Ulysses S. Grant
+211,James N.,Tyner,Postmaster General,1876-07-12,1877-03-03,Grant,Ulysses S.,0,NA,234,Ulysses S. Grant
+212,George M.,Robeson,Secretary of the Navy,1869-06-26,1877-03-12,Grant,Ulysses S.,0,NA,2816,Ulysses S. Grant
+213,Adolph E.,Borie,Secretary of the Navy,1869-03-09,1869-06-25,Grant,Ulysses S.,0,NA,108,Ulysses S. Grant
+214,Jacob D.,Cox,Secretary of the Interior,1869-03-05,1870-10-31,Grant,Ulysses S.,0,NA,605,Ulysses S. Grant
+215,Columbus,Delano,Secretary of the Interior,1870-11-01,1875-09-30,Grant,Ulysses S.,0,NA,1794,Ulysses S. Grant
+216,Zachariah,Chandler,Secretary of the Interior,1875-10-19,1877-03-11,Grant,Ulysses S.,0,NA,509,Ulysses S. Grant
+217,William M.,Evarts,Secretary of State,1877-03-12,1881-03-07,Hayes,Rutherford B.,0,End of President's term,1456,Rutherford B. Hayes
+218,John,Sherman,Secretary of the Treasury,1877-03-10,1881-03-03,Hayes,Rutherford B.,0,NA,1454,Rutherford B. Hayes
+219,George W.,McCrary,Secretary of War,1877-03-12,1879-12-10,Hayes,Rutherford B.,0,NA,1003,Rutherford B. Hayes
+220,Alexander,Ramsey,Secretary of War,1879-12-10,1881-03-04,Hayes,Rutherford B.,0,NA,450,Rutherford B. Hayes
+221,Charles,Devens,Attorney General,1877-03-12,1881-03-04,Hayes,Rutherford B.,0,NA,1453,Rutherford B. Hayes
+222,David M.,Key,Postmaster General,1877-03-12,1880-06-02,Hayes,Rutherford B.,0,NA,1178,Rutherford B. Hayes
+223,Horace,Maynard,Postmaster General,1880-08-26,1881-03-04,Hayes,Rutherford B.,0,NA,190,Rutherford B. Hayes
+224,Richard W.,Thompson,Secretary of the Navy,1877-03-13,1880-12-20,Hayes,Rutherford B.,0,NA,1378,Rutherford B. Hayes
+225,Nathan,"Goff, Jr.",Secretary of the Navy,1881-01-07,1881-03-06,Hayes,Rutherford B.,0,NA,58,Rutherford B. Hayes
+226,Carl,Schurz,Secretary of the Interior,1877-03-12,1881-03-07,Hayes,Rutherford B.,0,NA,1456,Rutherford B. Hayes
+227,James G.,Blaine,Secretary of State,1881-09-19,1881-12-18,Arthur,Chester A.,0,Resigned,90,Chester A. Arthur
+228,James G.,Blaine,Secretary of State,1881-03-07,1881-09-19,Garfield,James,0,End of President's term,196,James A. Garfield
+229,Robert T.,Lincoln,Secretary of War,1881-03-05,1881-09-19,Garfield,James,0,NA,198,James A. Garfield
+230,Robert T.,Lincoln,Secretary of War,1881-09-19,1885-03-04,Arthur,Chester A.,0,NA,1262,Chester A. Arthur
+231,William H.,Hunt,Secretary of the Navy,1881-03-07,1882-04-16,Garfield,James,0,NA,405,James A. Garfield
+232,Samuel J.,Kirkwood,Secretary of the Interior,1881-03-08,1881-09-19,Garfield,James,0,NA,195,James A. Garfield
+233,Samuel J.,Kirkwood,Secretary of the Interior,1881-09-19,1882-04-17,Arthur,Chester A.,0,NA,210,Chester A. Arthur
+234,Thomas F.,Bayard,Secretary of State,1885-03-07,1889-03-04,Cleveland,Grover,0,End of President's term,1458,Grover Cleveland
+235,Daniel,Manning,Secretary of the Treasury,1885-03-08,1887-03-31,Cleveland,Grover,0,NA,753,Grover Cleveland
+236,Charles S.,Fairchild,Secretary of the Treasury,1887-04-01,1889-03-06,Cleveland,Grover,0,NA,705,Grover Cleveland
+237,William C.,Endicott,Secretary of War,1885-03-05,1889-03-04,Cleveland,Grover,0,NA,1460,Grover Cleveland
+238,Augustus H.,Garland,Attorney General,1885-03-06,1889-03-04,Cleveland,Grover,0,NA,1459,Grover Cleveland
+239,William F.,Vilas,Postmaster General,1885-03-06,1888-01-06,Cleveland,Grover,0,NA,1036,Grover Cleveland
+240,Don M.,Dickinson,Postmaster General,1888-01-16,1889-03-04,Cleveland,Grover,0,NA,413,Grover Cleveland
+241,William C.,Whitney,Secretary of the Navy,1885-03-07,1889-03-05,Cleveland,Grover,0,NA,1459,Grover Cleveland
+242,Lucius Q. C.,Lamar,Secretary of the Interior,1885-03-06,1888-01-10,Cleveland,Grover,0,NA,1040,Grover Cleveland
+243,Norman J.,Colman,Secretary of Agriculture,1889-02-15,1889-03-06,Cleveland,Grover,0,NA,19,Grover Cleveland
+244,William F.,Vilas,Secretary of the Interior,1888-01-16,1889-03-06,Cleveland,Grover,0,NA,415,Grover Cleveland
+245,James G.,Blaine,Secretary of State,1889-03-05,1892-06-04,Harrison,Benjamin,0,Resigned,1187,Benjamin Harrison
+246,John W.,Foster,Secretary of State,1892-06-29,1893-02-23,Harrison,Benjamin,0,End of President's term,239,Benjamin Harrison
+247,William,Windom,Secretary of the Treasury,1889-03-07,1891-01-29,Harrison,Benjamin,0,NA,693,Benjamin Harrison
+248,Charles,Foster,Secretary of the Treasury,1891-02-25,1893-03-06,Harrison,Benjamin,0,NA,740,Benjamin Harrison
+249,Redfield,Proctor,Secretary of War,1889-03-05,1891-11-05,Harrison,Benjamin,0,NA,975,Benjamin Harrison
+250,Stephen B.,Elkins,Secretary of War,1891-12-17,1893-03-04,Harrison,Benjamin,0,NA,443,Benjamin Harrison
+251,William H. H.,Miller,Attorney General,1889-03-07,1893-03-04,Harrison,Benjamin,0,NA,1458,Benjamin Harrison
+252,John,Wanamaker,Postmaster General,1889-03-05,1893-03-04,Harrison,Benjamin,0,NA,1460,Benjamin Harrison
+253,Benjamin F.,Tracy,Secretary of the Navy,1889-03-06,1893-03-06,Harrison,Benjamin,0,NA,1461,Benjamin Harrison
+254,John W.,Noble,Secretary of the Interior,1889-03-07,1893-03-06,Harrison,Benjamin,0,NA,1460,Benjamin Harrison
+255,Jeremiah M.,Rusk,Secretary of Agriculture,1889-03-06,1893-03-06,Harrison,Benjamin,0,NA,1461,Benjamin Harrison
+256,Walter Q.,Gresham,Secretary of State,1893-03-07,1895-05-28,Cleveland,Grover,0,Died in Office,812,Grover Cleveland
+257,Richard,Olney,Secretary of State,1895-06-10,1897-03-05,Cleveland,Grover,0,End of President's term,634,Grover Cleveland
+258,John G.,Carlisle,Secretary of the Treasury,1893-03-07,1897-03-05,Cleveland,Grover,0,NA,1459,Grover Cleveland
+259,Daniel S.,Lamont,Secretary of War,1893-03-05,1897-03-04,Cleveland,Grover,0,NA,1460,Grover Cleveland
+260,Richard,Olney,Attorney General,1893-03-06,1895-04-07,Cleveland,Grover,0,NA,762,Grover Cleveland
+261,Judson,Harmon,Attorney General,1895-04-08,1897-03-04,Cleveland,Grover,0,NA,696,Grover Cleveland
+262,Wilson S.,Bissell,Postmaster General,1893-03-06,1895-03-01,Cleveland,Grover,0,NA,725,Grover Cleveland
+263,William L.,Wilson,Postmaster General,1895-03-01,1897-03-05,Cleveland,Grover,0,NA,735,Grover Cleveland
+264,Hilary A.,Herbert,Secretary of the Navy,1893-03-07,1897-03-06,Cleveland,Grover,0,NA,1460,Grover Cleveland
+265,Hoke,Smith,Secretary of the Interior,1893-03-06,1896-09-01,Cleveland,Grover,0,NA,1275,Grover Cleveland
+266,David R.,Francis,Secretary of the Interior,1896-09-03,1897-03-05,Cleveland,Grover,0,NA,183,Grover Cleveland
+267,Julius Sterling,Morton,Secretary of Agriculture,1893-03-07,1897-03-05,Cleveland,Grover,0,NA,1459,Grover Cleveland
+268,John,Sherman,Secretary of State,1897-03-06,1898-04-27,McKinley,William,0,Resigned,417,William McKinley
+269,William R.,Day,Secretary of State,1898-04-28,1898-09-16,McKinley,William,0,Resigned,141,William McKinley
+270,John,Hay,Secretary of State,1901-09-14,1905-07-01,Roosevelt,Theodore,0,Died in Office,1386,Theodore Roosevelt
+271,John,Hay,Secretary of State,1898-09-30,1901-09-14,McKinley,William,0,End of President's term,1079,William McKinley
+272,Russell A.,Alger,Secretary of War,1897-03-05,1899-08-01,McKinley,William,0,NA,879,William McKinley
+273,John W.,Griggs,Attorney General,1898-01-25,1901-03-29,McKinley,William,0,NA,1158,William McKinley
+274,James A.,Gary,Postmaster General,1897-03-05,1898-04-21,McKinley,William,0,NA,412,William McKinley
+275,John D.,Long,Secretary of the Navy,1897-03-06,1901-09-14,McKinley,William,0,NA,1652,William McKinley
+276,John D.,Long,Secretary of the Navy,1901-09-14,1902-04-30,Roosevelt,Theodore,0,NA,228,Theodore Roosevelt
+277,Cornelius N.,Bliss,Secretary of the Interior,1897-03-06,1899-02-19,McKinley,William,0,NA,715,William McKinley
+278,James,Wilson,Secretary of Agriculture,1897-03-06,1901-09-14,McKinley,William,0,NA,1652,William McKinley
+279,William J.,Bryan,Secretary of State,1913-03-05,1915-06-09,Wilson,Woodrow,0,Resigned,826,Woodrow Wilson
+280,Robert,Lansing,Secretary of State,1915-06-24,1920-02-13,Wilson,Woodrow,0,Resigned,1695,Woodrow Wilson
+281,Bainbridge,Colby,Secretary of State,1920-03-23,1921-03-04,Wilson,Woodrow,0,End of President's term,346,Woodrow Wilson
+282,William G.,McAdoo,Secretary of the Treasury,1913-03-06,1918-12-15,Wilson,Woodrow,0,NA,2110,Woodrow Wilson
+283,Carter,Glass,Secretary of the Treasury,1918-12-16,1920-02-01,Wilson,Woodrow,0,NA,412,Woodrow Wilson
+284,David F.,Houston,Secretary of the Treasury,1920-02-02,1921-03-03,Wilson,Woodrow,0,NA,395,Woodrow Wilson
+285,Lindley M.,Garrison,Secretary of War,1913-03-05,1916-02-10,Wilson,Woodrow,0,NA,1072,Woodrow Wilson
+286,Newton D.,Baker,Secretary of War,1916-03-09,1921-03-04,Wilson,Woodrow,0,NA,1821,Woodrow Wilson
+287,James C.,McReynolds,Attorney General,1913-03-05,1914-08-29,Wilson,Woodrow,0,NA,542,Woodrow Wilson
+288,Thomas W.,Gregory,Attorney General,1914-08-29,1919-03-04,Wilson,Woodrow,0,NA,1648,Woodrow Wilson
+289,A. Mitchell,Palmer,Attorney General,1919-03-05,1921-03-04,Wilson,Woodrow,0,NA,730,Woodrow Wilson
+290,Albert S.,Burleson,Postmaster General,1913-03-05,1921-03-04,Wilson,Woodrow,0,NA,2921,Woodrow Wilson
+291,Josephus,Daniels,Secretary of the Navy,1913-03-05,1921-03-05,Wilson,Woodrow,0,NA,2922,Woodrow Wilson
+292,Franklin K.,Lane,Secretary of the Interior,1913-03-06,1920-02-29,Wilson,Woodrow,0,NA,2551,Woodrow Wilson
+293,John B.,Payne,Secretary of the Interior,1920-03-15,1921-03-04,Wilson,Woodrow,0,NA,354,Woodrow Wilson
+294,James,Wilson,Secretary of Agriculture,1901-09-14,1909-03-04,Roosevelt,Theodore,0,NA,2728,Theodore Roosevelt
+295,James,Wilson,Secretary of Agriculture,1909-03-04,1913-03-05,Taft,William H.,0,NA,1462,William Howard Taft
+296,David F.,Houston,Secretary of Agriculture,1913-03-06,1920-02-02,Wilson,Woodrow,0,NA,2524,Woodrow Wilson
+297,Edwin T.,Meredith,Secretary of Agriculture,1920-02-02,1921-03-04,Wilson,Woodrow,0,NA,396,Woodrow Wilson
+298,William C.,Redfield,Secretary of Commerce,1913-03-05,1919-10-31,Wilson,Woodrow,0,NA,2431,Woodrow Wilson
+299,Joshua W.,Alexander,Secretary of Commerce,1919-12-16,1921-03-04,Wilson,Woodrow,0,NA,444,Woodrow Wilson
+300,William B.,Wilson,Secretary of Labor,1913-03-06,1921-03-04,Wilson,Woodrow,0,NA,2920,Woodrow Wilson
+301,Charles E.,Hughes,Secretary of State,1923-08-02,1925-03-05,Coolidge,Calvin,0,Resigned,581,Calvin Coolidge
+302,Charles E.,Hughes,Secretary of State,1921-03-05,1923-08-02,Harding,Warren G.,0,End of President's term,880,Warren G. Harding
+303,Andrew W.,Mellon,Secretary of the Treasury,1921-03-04,1923-08-02,Harding,Warren G.,0,NA,881,Warren G. Harding
+304,Andrew W.,Mellon,Secretary of the Treasury,1923-08-03,1929-03-03,Coolidge,Calvin,0,NA,2039,Calvin Coolidge
+305,Andrew W.,Mellon,Secretary of the Treasury,1929-03-04,1932-02-12,Hoover,Herbert,0,NA,1075,Herbert Hoover
+306,John W.,Weeks,Secretary of War,1921-03-05,1923-08-02,Harding,Warren G.,0,NA,880,Warren G. Harding
+307,John W.,Weeks,Secretary of War,1923-08-02,1925-10-13,Coolidge,Calvin,0,NA,803,Calvin Coolidge
+308,Harry M.,Daugherty,Attorney General,1923-08-02,1924-04-06,Coolidge,Calvin,0,NA,248,Calvin Coolidge
+309,Harry M.,Daugherty,Attorney General,1921-03-04,1923-08-02,Harding,Warren G.,0,NA,881,Warren G. Harding
+310,Will H.,Hays,Postmaster General,1921-03-04,1922-03-03,Harding,Warren G.,0,NA,364,Warren G. Harding
+311,Hubert,Work,Postmaster General,1922-03-04,1923-03-04,Harding,Warren G.,0,NA,365,Warren G. Harding
+312,Harry S.,New,Postmaster General,1923-03-05,1923-08-02,Harding,Warren G.,0,NA,150,Warren G. Harding
+313,Harry S.,New,Postmaster General,1923-08-02,1929-03-03,Coolidge,Calvin,0,NA,2040,Calvin Coolidge
+314,Edwin,Denby,Secretary of the Navy,1921-03-06,1923-08-02,Harding,Warren G.,0,NA,879,Warren G. Harding
+315,Edwin,Denby,Secretary of the Navy,1923-08-02,1924-03-10,Coolidge,Calvin,0,NA,221,Calvin Coolidge
+316,Albert B.,Fall,Secretary of the Interior,1921-03-05,1923-03-04,Harding,Warren G.,0,NA,729,Warren G. Harding
+317,Hubert,Work,Secretary of the Interior,1923-03-05,1923-08-02,Harding,Warren G.,0,NA,150,Warren G. Harding
+318,Hubert,Work,Secretary of the Interior,1923-08-02,1928-07-24,Coolidge,Calvin,0,NA,1818,Calvin Coolidge
+319,Herbert C.,Hoover,Secretary of Commerce,1921-03-05,1923-08-02,Harding,Warren G.,0,NA,880,Warren G. Harding
+320,Herbert C.,Hoover,Secretary of Commerce,1923-08-02,1928-08-21,Coolidge,Calvin,0,NA,1846,Calvin Coolidge
+321,James J.,Davis,Secretary of Labor,1921-03-05,1923-08-02,Harding,Warren G.,0,NA,880,Warren G. Harding
+322,James J.,Davis,Secretary of Labor,1923-08-02,1930-11-30,Coolidge,Calvin,0,NA,2677,Calvin Coolidge
+323,Frank B.,Kellogg,Secretary of State,1929-03-04,1929-03-28,Hoover,Herbert,0,NA,24,Herbert Hoover
+324,Frank B.,Kellogg,Secretary of State,1925-03-05,1929-03-04,Coolidge,Calvin,0,End of President's term,1460,Calvin Coolidge
+325,Dwight F.,Davis,Secretary of War,1925-10-14,1929-03-04,Coolidge,Calvin,0,NA,1237,Calvin Coolidge
+326,Harlan F.,Stone,Attorney General,1924-04-07,1925-03-01,Coolidge,Calvin,0,NA,328,Calvin Coolidge
+327,John G.,Sargent,Attorney General,1925-03-07,1929-03-04,Coolidge,Calvin,0,NA,1458,Calvin Coolidge
+328,Curtis D.,Wilbur,Secretary of the Navy,1924-03-19,1929-03-04,Coolidge,Calvin,0,NA,1811,Calvin Coolidge
+329,Roy O.,West,Secretary of the Interior,1928-07-25,1929-03-04,Coolidge,Calvin,0,NA,222,Calvin Coolidge
+330,Henry C.,Wallace,Secretary of Agriculture,1921-03-05,1923-08-02,Harding,Warren G.,0,NA,880,Warren G. Harding
+331,Henry C.,Wallace,Secretary of Agriculture,1923-08-02,1924-10-25,Coolidge,Calvin,0,NA,450,Calvin Coolidge
+332,Howard M.,Gore,Secretary of Agriculture,1924-11-22,1925-03-04,Coolidge,Calvin,0,NA,102,Calvin Coolidge
+333,William M.,Jardine,Secretary of Agriculture,1925-03-05,1929-03-04,Coolidge,Calvin,0,NA,1460,Calvin Coolidge
+334,William F.,Whiting,Secretary of Commerce,1928-08-22,1929-03-04,Coolidge,Calvin,0,NA,194,Calvin Coolidge
+335,Henry L.,Stimson,Secretary of State,1929-03-28,1933-03-04,Hoover,Herbert,0,End of President's term,1437,Herbert Hoover
+336,Ogden L.,Mills,Secretary of the Treasury,1932-02-13,1933-03-03,Hoover,Herbert,0,NA,384,Herbert Hoover
+337,James W.,Good,Secretary of War,1929-03-06,1929-11-18,Hoover,Herbert,0,NA,257,Herbert Hoover
+338,Patrick J.,Hurley,Secretary of War,1929-12-09,1933-03-04,Hoover,Herbert,0,NA,1181,Herbert Hoover
+339,William D.,Mitchell,Attorney General,1929-03-04,1933-03-04,Hoover,Herbert,0,NA,1461,Herbert Hoover
+340,Walter F.,Brown,Postmaster General,1929-03-06,1933-03-04,Hoover,Herbert,0,NA,1459,Herbert Hoover
+341,Charles F.,Adams,Secretary of the Navy,1929-03-05,1933-03-04,Hoover,Herbert,0,NA,1460,Herbert Hoover
+342,Ray Lyman,Wilbur,Secretary of the Interior,1929-03-05,1933-03-04,Hoover,Herbert,0,NA,1460,Herbert Hoover
+343,Arthur M.,Hyde,Secretary of Agriculture,1929-03-06,1933-03-04,Hoover,Herbert,0,NA,1459,Herbert Hoover
+344,Robert P.,Lamont,Secretary of Commerce,1929-03-05,1932-08-07,Hoover,Herbert,0,NA,1251,Herbert Hoover
+345,Roy D.,Chapin,Secretary of Commerce,1932-08-08,1933-03-03,Hoover,Herbert,0,NA,207,Herbert Hoover
+346,William N.,Doak,Secretary of Labor,1930-12-09,1933-03-04,Hoover,Herbert,0,NA,816,Herbert Hoover
+347,Cordell,Hull,Secretary of State,1933-03-04,1944-11-30,Roosevelt,Franklin D.,0,Resigned,4289,Franklin D. Roosevelt
+348,Edward R.,"Stettinius, Jr.",Secretary of State,1945-04-12,1945-06-27,Truman,Harry S.,0,Resigned,76,Harry S. Truman
+349,Edward R.,"Stettinius, Jr.",Secretary of State,1944-12-01,1945-04-12,Roosevelt,Franklin D.,0,End of President's term,132,Franklin D. Roosevelt
+350,William H.,Woodin,Secretary of the Treasury,1933-03-04,1933-12-31,Roosevelt,Franklin D.,0,NA,302,Franklin D. Roosevelt
+351,George H.,Dern,Secretary of War,1933-03-04,1936-08-27,Roosevelt,Franklin D.,0,NA,1272,Franklin D. Roosevelt
+352,Harry H.,Woodring,Secretary of War,1936-09-25,1940-06-20,Roosevelt,Franklin D.,0,NA,1364,Franklin D. Roosevelt
+353,Henry L.,Stimson,Secretary of War,1940-07-10,1945-04-12,Roosevelt,Franklin D.,0,NA,1737,Franklin D. Roosevelt
+354,Henry L.,Stimson,Secretary of War,1945-04-12,1945-09-21,Truman,Harry S.,0,NA,162,Harry S. Truman
+355,Homer S.,Cummings,Attorney General,1933-03-04,1939-01-01,Roosevelt,Franklin D.,0,NA,2129,Franklin D. Roosevelt
+356,Frank,Murphy,Attorney General,1939-01-02,1940-01-18,Roosevelt,Franklin D.,0,NA,381,Franklin D. Roosevelt
+357,Robert H.,Jackson,Attorney General,1940-01-18,1941-08-25,Roosevelt,Franklin D.,0,NA,585,Franklin D. Roosevelt
+358,James A.,Farley,Postmaster General,1933-03-06,1940-09-10,Roosevelt,Franklin D.,0,NA,2745,Franklin D. Roosevelt
+359,Claude A.,Swanson,Secretary of the Navy,1933-03-04,1939-07-07,Roosevelt,Franklin D.,0,NA,2316,Franklin D. Roosevelt
+360,Charles,Edison,Secretary of the Navy,1940-01-02,1940-06-24,Roosevelt,Franklin D.,0,NA,174,Franklin D. Roosevelt
+361,Frank,Knox,Secretary of the Navy,1940-07-11,1944-04-28,Roosevelt,Franklin D.,0,NA,1387,Franklin D. Roosevelt
+362,James,Forrestal,Secretary of the Navy,1944-05-19,1945-04-12,Roosevelt,Franklin D.,0,NA,328,Franklin D. Roosevelt
+363,James,Forrestal,Secretary of the Navy,1945-04-12,1947-09-17,Truman,Harry S.,0,NA,888,Harry S. Truman
+364,Harold L.,Ickes,Secretary of the Interior,1933-03-04,1945-04-12,Roosevelt,Franklin D.,0,NA,4422,Franklin D. Roosevelt
+365,Harold L.,Ickes,Secretary of the Interior,1945-04-12,1946-02-15,Truman,Harry S.,0,NA,309,Harry S. Truman
+366,Henry A.,Wallace,Secretary of Agriculture,1933-03-04,1940-09-04,Roosevelt,Franklin D.,0,NA,2741,Franklin D. Roosevelt
+367,Daniel C.,Roper,Secretary of Commerce,1933-03-04,1938-12-23,Roosevelt,Franklin D.,0,NA,2120,Franklin D. Roosevelt
+368,Harry L.,Hopkins,Secretary of Commerce,1938-12-24,1940-09-18,Roosevelt,Franklin D.,0,NA,634,Franklin D. Roosevelt
+369,Jesse H.,Jones,Secretary of Commerce,1940-09-19,1945-03-01,Roosevelt,Franklin D.,0,NA,1624,Franklin D. Roosevelt
+370,Henry A.,Wallace,Secretary of Commerce,1945-03-02,1945-04-12,Roosevelt,Franklin D.,0,NA,41,Franklin D. Roosevelt
+371,Frances,Perkins,Secretary of Labor,1933-03-04,1945-04-12,Roosevelt,Franklin D.,0,NA,4422,Franklin D. Roosevelt
+372,Frances,Perkins,Secretary of Labor,1945-04-12,1945-06-30,Truman,Harry S.,0,NA,79,Harry S. Truman
+373,John Foster,Dulles,Secretary of State,1953-01-21,1959-04-22,Eisenhower,Dwight D.,0,Resigned,2282,Dwight D. Eisenhower
+374,Christian A.,Herter,Secretary of State,1959-04-22,1961-01-20,Eisenhower,Dwight D.,0,End of President's term,639,Dwight D. Eisenhower
+375,George M.,Humphrey,Secretary of the Treasury,1953-01-21,1957-07-29,Eisenhower,Dwight D.,0,NA,1650,Dwight D. Eisenhower
+376,Robert B.,Anderson,Secretary of the Treasury,1957-07-29,1961-01-20,Eisenhower,Dwight D.,0,NA,1271,Dwight D. Eisenhower
+377,Charles E.,Wilson,Secretary of Defense,1953-01-28,1957-10-08,Eisenhower,Dwight D.,0,NA,1714,Dwight D. Eisenhower
+378,Neil H.,McElroy,Secretary of Defense,1957-10-09,1959-12-01,Eisenhower,Dwight D.,0,NA,783,Dwight D. Eisenhower
+379,Thomas S.,"Gates, Jr.",Secretary of Defense,1959-12-02,1961-01-20,Eisenhower,Dwight D.,0,NA,415,Dwight D. Eisenhower
+380,Herbert,"Brownell, Jr.",Attorney General,1953-01-21,1957-10-23,Eisenhower,Dwight D.,0,NA,1736,Dwight D. Eisenhower
+381,William P.,Rogers,Attorney General,1957-10-23,1961-01-20,Eisenhower,Dwight D.,0,NA,1185,Dwight D. Eisenhower
+382,Arthur E.,Summerfield,Postmaster General,1953-01-21,1961-01-20,Eisenhower,Dwight D.,0,NA,2921,Dwight D. Eisenhower
+383,Douglas,McKay,Secretary of the Interior,1953-01-21,1956-04-15,Eisenhower,Dwight D.,0,NA,1180,Dwight D. Eisenhower
+384,Frederick A.,Seaton,Secretary of the Interior,1956-06-08,1961-01-20,Eisenhower,Dwight D.,0,NA,1687,Dwight D. Eisenhower
+385,Ezra Taft,Benson,Secretary of Agriculture,1953-01-21,1961-01-20,Eisenhower,Dwight D.,0,NA,2921,Dwight D. Eisenhower
+386,Sinclair,Weeks,Secretary of Commerce,1953-01-21,1958-11-10,Eisenhower,Dwight D.,0,NA,2119,Dwight D. Eisenhower
+388,Frederick H.,Mueller,Secretary of Commerce,1959-08-10,1961-01-19,Eisenhower,Dwight D.,0,NA,528,Dwight D. Eisenhower
+389,Oveta Culp,Hobby,"Secretary of Health, Education, and Welfare",1953-04-11,1955-07-31,Eisenhower,Dwight D.,0,NA,841,Dwight D. Eisenhower
+390,Marion B.,Folsom,"Secretary of Health, Education, and Welfare",1955-08-01,1958-07-31,Eisenhower,Dwight D.,0,NA,1095,Dwight D. Eisenhower
+391,Arthur S.,Flemming,"Secretary of Health, Education, and Welfare",1958-08-01,1961-01-19,Eisenhower,Dwight D.,0,NA,902,Dwight D. Eisenhower
+392,Martin P.,Durkin,Secretary of Labor,1953-01-21,1953-09-10,Eisenhower,Dwight D.,0,NA,232,Dwight D. Eisenhower
+393,James P.,Mitchell,Secretary of Labor,1953-10-09,1961-01-20,Eisenhower,Dwight D.,0,NA,2660,Dwight D. Eisenhower
+394,C. Douglas,Dillon,Secretary of the Treasury,1961-01-21,1963-11-22,Kennedy,John F.,0,NA,1035,John F. Kennedy
+395,C. Douglas,Dillon,Secretary of the Treasury,1963-11-22,1965-04-01,Johnson,Lyndon B.,0,NA,496,Lyndon B. Johnson
+396,Henry H.,Fowler,Secretary of the Treasury,1965-04-01,1968-12-20,Johnson,Lyndon B.,0,NA,1359,Lyndon B. Johnson
+397,Joseph W.,Barr,Secretary of the Treasury,1968-12-21,1969-01-20,Johnson,Lyndon B.,0,NA,30,Lyndon B. Johnson
+398,Robert S.,McNamara,Secretary of Defense,1961-01-21,1963-11-22,Kennedy,John F.,0,NA,1035,John F. Kennedy
+399,Robert S.,McNamara,Secretary of Defense,1963-11-22,1968-02-29,Johnson,Lyndon B.,0,NA,1560,Lyndon B. Johnson
+400,Clark M.,Clifford,Secretary of Defense,1968-03-01,1969-01-20,Johnson,Lyndon B.,0,NA,325,Lyndon B. Johnson
+401,Robert F.,Kennedy,Attorney General,1961-01-20,1963-11-22,Kennedy,John F.,0,NA,1036,John F. Kennedy
+402,Robert F.,Kennedy,Attorney General,1963-11-22,1964-09-03,Johnson,Lyndon B.,0,NA,286,Lyndon B. Johnson
+403,Nicholas de B.,Katzenbach,Attorney General,1965-01-28,1966-11-28,Johnson,Lyndon B.,0,NA,669,Lyndon B. Johnson
+404,Ramsey,Clark,Attorney General,1967-03-10,1969-01-20,Johnson,Lyndon B.,0,NA,682,Lyndon B. Johnson
+405,John A.,Gronouski,Postmaster General,1963-09-30,1963-11-22,Kennedy,John F.,0,NA,53,John F. Kennedy
+406,John A.,Gronouski,Postmaster General,1963-11-22,1965-11-02,Johnson,Lyndon B.,0,NA,711,Lyndon B. Johnson
+407,Lawrence F.,O'Brien,Postmaster General,1965-11-03,1968-04-10,Johnson,Lyndon B.,0,NA,889,Lyndon B. Johnson
+408,W. Marvin,Watson,Postmaster General,1968-04-26,1969-01-20,Johnson,Lyndon B.,0,NA,269,Lyndon B. Johnson
+409,Stewart L.,Udall,Secretary of the Interior,1961-01-21,1963-11-22,Kennedy,John F.,0,NA,1035,John F. Kennedy
+410,Stewart L.,Udall,Secretary of the Interior,1963-11-22,1969-01-20,Johnson,Lyndon B.,0,NA,1886,Lyndon B. Johnson
+411,Orville L.,Freeman,Secretary of Agriculture,1961-01-21,1963-11-22,Kennedy,John F.,0,NA,1035,John F. Kennedy
+412,Luther H.,Hodges,Secretary of Commerce,1961-01-21,1963-11-22,Kennedy,John F.,0,NA,1035,John F. Kennedy
+413,Luther H.,Hodges,Secretary of Commerce,1963-11-22,1965-01-15,Johnson,Lyndon B.,0,NA,420,Lyndon B. Johnson
+414,John T.,Connor,Secretary of Commerce,1965-01-18,1967-01-31,Johnson,Lyndon B.,0,NA,743,Lyndon B. Johnson
+415,A. B.,Trowbridge,Secretary of Commerce,1967-06-14,1968-03-01,Johnson,Lyndon B.,0,NA,261,Lyndon B. Johnson
+416,C. R.,Smith,Secretary of Commerce,1968-03-06,1969-01-19,Johnson,Lyndon B.,0,NA,319,Lyndon B. Johnson
+417,W. Willard,Wirtz,Secretary of Labor,1962-09-25,1963-11-22,Kennedy,John F.,0,NA,423,John F. Kennedy
+418,W. Willard,Wirtz,Secretary of Labor,1963-11-22,1969-01-20,Johnson,Lyndon B.,0,NA,1886,Lyndon B. Johnson
+419,Anthony J.,Celebrezze,"Secretary of Health, Education, and Welfare",1962-07-31,1963-11-22,Kennedy,John F.,0,NA,479,John F. Kennedy
+420,Anthony J.,Celebrezze,"Secretary of Health, Education, and Welfare",1963-11-22,1965-08-17,Johnson,Lyndon B.,0,NA,634,Lyndon B. Johnson
+421,John W.,Gardner,"Secretary of Health, Education, and Welfare",1965-08-18,1968-03-01,Johnson,Lyndon B.,0,NA,926,Lyndon B. Johnson
+422,Wilbur J.,Cohen,"Secretary of Health, Education, and Welfare",1968-05-16,1969-01-20,Johnson,Lyndon B.,0,NA,249,Lyndon B. Johnson
+423,Robert C.,Weaver,Secretary of Housing and Urban Development,1966-01-18,1968-12-18,Johnson,Lyndon B.,0,NA,1065,Lyndon B. Johnson
+425,Alan S.,Boyd,Secretary of Transportation,1967-01-16,1969-01-20,Johnson,Lyndon B.,0,NA,735,Lyndon B. Johnson
+426,William P.,Rogers,Secretary of State,1969-01-22,1973-09-03,Nixon,Richard M.,0,Resigned,1685,Richard Nixon
+427,Henry A.,Kissinger,Secretary of State,1974-08-09,1977-01-20,Ford,Gerald,0,End of President's term,895,Gerald Ford
+428,Henry A.,Kissinger,Secretary of State,1973-09-23,1974-08-09,Nixon,Richard M.,0,End of President's term,320,Richard Nixon
+429,David M.,Kennedy,Secretary of the Treasury,1969-01-22,1971-02-11,Nixon,Richard M.,0,NA,750,Richard Nixon
+430,John B.,Connally,Secretary of the Treasury,1971-02-11,1972-06-12,Nixon,Richard M.,0,NA,487,Richard Nixon
+431,George P.,Shultz,Secretary of the Treasury,1972-06-12,1974-05-08,Nixon,Richard M.,0,NA,695,Richard Nixon
+432,William E.,Simon,Secretary of the Treasury,1974-05-08,1974-08-09,Nixon,Richard M.,0,NA,93,Richard Nixon
+433,William E.,Simon,Secretary of the Treasury,1974-08-09,1977-01-20,Ford,Gerald,0,NA,895,Gerald Ford
+434,Melvin R.,Laird,Secretary of Defense,1969-01-22,1973-01-29,Nixon,Richard M.,0,NA,1468,Richard Nixon
+435,Elliot L.,Richardson,Secretary of Defense,1973-01-30,1973-05-24,Nixon,Richard M.,0,NA,114,Richard Nixon
+436,James R.,Schlesinger,Secretary of Defense,1973-07-02,1974-08-09,Nixon,Richard M.,0,NA,403,Richard Nixon
+437,James R.,Schlesinger,Secretary of Defense,1974-08-09,1975-11-19,Ford,Gerald,0,NA,467,Gerald Ford
+438,John N.,Mitchell,Attorney General,1969-01-20,1972-02-15,Nixon,Richard M.,0,NA,1121,Richard Nixon
+439,Richard G.,Kleindienst,Attorney General,1972-02-15,1973-05-25,Nixon,Richard M.,0,NA,465,Richard Nixon
+440,Elliot L.,Richardson,Attorney General,1973-05-25,1973-10-20,Nixon,Richard M.,0,NA,148,Richard Nixon
+441,Winton M.,Blount,Postmaster General,1969-01-22,1971-06-30,Nixon,Richard M.,0,NA,889,Richard Nixon
+442,Walter J.,Hickel,Secretary of the Interior,1969-01-24,1970-11-25,Nixon,Richard M.,0,NA,670,Richard Nixon
+443,Rogers C. B.,Morton,Secretary of the Interior,1971-01-29,1974-08-09,Nixon,Richard M.,0,NA,1288,Richard Nixon
+444,Rogers C. B.,Morton,Secretary of the Interior,1974-08-09,1975-04-30,Ford,Gerald,0,NA,264,Gerald Ford
+445,Orville L.,Freeman,Secretary of Agriculture,1963-11-22,1969-01-20,Johnson,Lyndon B.,0,NA,1886,Lyndon B. Johnson
+446,Clifford M.,Hardin,Secretary of Agriculture,1969-01-21,1971-11-17,Nixon,Richard M.,0,NA,1030,Richard Nixon
+447,Earl L.,Butz,Secretary of Agriculture,1971-12-02,1974-08-09,Nixon,Richard M.,0,NA,981,Richard Nixon
+448,Earl L.,Butz,Secretary of Agriculture,1974-08-09,1976-10-04,Ford,Gerald,0,NA,787,Gerald Ford
+449,Maurice H.,Stans,Secretary of Commerce,1969-01-21,1972-02-15,Nixon,Richard M.,0,NA,1120,Richard Nixon
+450,Peter G.,Peterson,Secretary of Commerce,1972-02-29,1973-02-01,Nixon,Richard M.,0,NA,338,Richard Nixon
+451,Frederick B.,Dent,Secretary of Commerce,1973-02-02,1974-08-09,Nixon,Richard M.,0,NA,553,Richard Nixon
+452,Frederick B.,Dent,Secretary of Commerce,1974-08-09,1975-03-26,Ford,Gerald,0,NA,229,Gerald Ford
+453,George P.,Shultz,Secretary of Labor,1969-01-22,1970-07-01,Nixon,Richard M.,0,NA,525,Richard Nixon
+454,James D.,Hodgson,Secretary of Labor,1970-07-02,1973-02-01,Nixon,Richard M.,0,NA,945,Richard Nixon
+455,Peter J.,Brennan,Secretary of Labor,1973-02-02,1974-08-09,Nixon,Richard M.,0,NA,553,Richard Nixon
+456,Peter J.,Brennan,Secretary of Labor,1974-08-09,1975-03-15,Ford,Gerald,0,NA,218,Gerald Ford
+457,Robert H.,Finch,"Secretary of Health, Education, and Welfare",1969-01-21,1970-06-23,Nixon,Richard M.,0,NA,518,Richard Nixon
+458,Elliot L.,Richardson,"Secretary of Health, Education, and Welfare",1970-06-24,1973-01-29,Nixon,Richard M.,0,NA,950,Richard Nixon
+459,Casper W.,Weinberger,"Secretary of Health, Education, and Welfare",1973-02-12,1974-08-09,Nixon,Richard M.,0,NA,543,Richard Nixon
+460,Casper W.,Weinberger,"Secretary of Health, Education, and Welfare",1974-08-09,1975-08-08,Ford,Gerald,0,NA,364,Gerald Ford
+461,George,Romney,Secretary of Housing and Urban Development,1969-01-22,1973-01-20,Nixon,Richard M.,0,NA,1459,Richard Nixon
+462,James T.,Lynn,Secretary of Housing and Urban Development,1974-08-09,1975-02-05,Ford,Gerald,0,NA,180,Gerald Ford
+463,James T.,Lynn,Secretary of Housing and Urban Development,1973-02-02,1974-08-09,Nixon,Richard M.,0,NA,553,Richard Nixon
+464,John A.,Volpe,Secretary of Transportation,1969-01-22,1973-02-02,Nixon,Richard M.,0,NA,1472,Richard Nixon
+465,Claude S.,Brinegar,Secretary of Transportation,1973-02-02,1974-08-09,Nixon,Richard M.,0,NA,553,Richard Nixon
+466,Claude S.,Brinegar,Secretary of Transportation,1974-08-09,1975-02-01,Ford,Gerald,0,NA,176,Gerald Ford
+467,Donald H.,Rumsfeld,Secretary of Defense,1975-11-20,1977-01-20,Ford,Gerald,0,NA,427,Gerald Ford
+468,William B.,Saxbe,Attorney General,1974-08-09,1975-01-14,Ford,Gerald,0,NA,158,Gerald Ford
+469,William B.,Saxbe,Attorney General,1974-01-04,1974-08-09,Nixon,Richard M.,0,NA,217,Richard Nixon
+470,Edward H.,Levi,Attorney General,1975-01-14,1977-01-20,Ford,Gerald,0,NA,737,Gerald Ford
+471,Stanley K.,Hathaway,Secretary of the Interior,1975-06-12,1975-10-09,Ford,Gerald,0,NA,119,Gerald Ford
+472,Thomas S.,Kleppe,Secretary of the Interior,1975-10-17,1977-01-20,Ford,Gerald,0,NA,461,Gerald Ford
+473,John,Knebel,Secretary of Agriculture,1976-11-04,1977-01-20,Ford,Gerald,0,NA,77,Gerald Ford
+474,Rogers C. B.,Morton,Secretary of Commerce,1975-05-01,1976-02-02,Ford,Gerald,0,NA,277,Gerald Ford
+475,Elliot L.,Richardson,Secretary of Commerce,1976-02-02,1977-01-20,Ford,Gerald,0,NA,353,Gerald Ford
+476,John T.,Dunlop,Secretary of Labor,1975-03-18,1976-01-31,Ford,Gerald,0,NA,319,Gerald Ford
+477,William J.,"Usery, Jr.",Secretary of Labor,1976-02-10,1977-01-20,Ford,Gerald,0,NA,345,Gerald Ford
+478,F. David,Mathews,"Secretary of Health, Education, and Welfare",1975-08-08,1977-01-20,Ford,Gerald,0,NA,531,Gerald Ford
+479,Carla A.,Hills,Secretary of Housing and Urban Development,1975-03-10,1977-01-20,Ford,Gerald,0,NA,682,Gerald Ford
+480,William T.,"Coleman, Jr.",Secretary of Transportation,1975-03-07,1977-01-20,Ford,Gerald,0,NA,685,Gerald Ford
+481,Cyrus R.,Vance,Secretary of State,1977-01-23,1980-04-28,Carter,Jimmy,0,Resigned,1191,Jimmy Carter
+482,Edmund S.,Muskie,Secretary of State,1980-05-08,1981-01-18,Carter,Jimmy,0,End of President's term,255,Jimmy Carter
+483,W. Michael,Blumenthal,Secretary of the Treasury,1977-01-23,1979-08-04,Carter,Jimmy,0,NA,923,Jimmy Carter
+484,G. William,Miller,Secretary of the Treasury,1979-08-06,1981-01-20,Carter,Jimmy,0,NA,533,Jimmy Carter
+485,Harold,Brown,Secretary of Defense,1977-01-21,1981-01-20,Carter,Jimmy,0,NA,1460,Jimmy Carter
+486,Griffin B.,Bell,Attorney General,1977-01-26,1979-08-16,Carter,Jimmy,0,NA,932,Jimmy Carter
+487,Benjamin R.,Civiletti,Attorney General,1979-08-16,1981-01-19,Carter,Jimmy,0,NA,522,Jimmy Carter
+488,Cecil D.,Andrus,Secretary of the Interior,1977-01-23,1981-01-20,Carter,Jimmy,0,NA,1458,Jimmy Carter
+489,Bob S.,Bergland,Secretary of Agriculture,1977-01-23,1981-01-20,Carter,Jimmy,0,NA,1458,Jimmy Carter
+490,Juanita M.,Krepps,Secretary of Commerce,1977-01-23,1979-10-31,Carter,Jimmy,0,NA,1011,Jimmy Carter
+491,Philip M.,Klutznick,Secretary of Commerce,1980-01-09,1981-01-20,Carter,Jimmy,0,NA,377,Jimmy Carter
+492,F. Ray,Marshall,Secretary of Labor,1977-01-27,1981-01-20,Carter,Jimmy,0,NA,1454,Jimmy Carter
+493,Joseph A.,"Califano, Jr.","Secretary of Health, Education, and Welfare",1977-01-25,1979-08-03,Carter,Jimmy,0,NA,920,Jimmy Carter
+494,Patricia Roberts,Harris,"Secretary of Health, Education, and Welfare",1979-08-03,1980-05-04,Carter,Jimmy,0,NA,275,Jimmy Carter
+495,Patricia Roberts,Harris,Secretary of Housing and Urban Development,1977-01-23,1979-09-10,Carter,Jimmy,0,NA,960,Jimmy Carter
+496,Moon,Landrieu,Secretary of Housing and Urban Development,1979-09-24,1981-01-20,Carter,Jimmy,0,NA,484,Jimmy Carter
+497,Brock,Adams,Secretary of Transportation,1977-01-23,1979-07-20,Carter,Jimmy,0,NA,908,Jimmy Carter
+498,Neil E.,Goldschmidt,Secretary of Transportation,1979-08-15,1981-01-20,Carter,Jimmy,0,NA,524,Jimmy Carter
+499,James R.,Schlesinger,Secretary of Energy,1977-10-01,1979-08-23,Carter,Jimmy,0,NA,691,Jimmy Carter
+500,Charles W.,"Duncan, Jr.",Secretary of Energy,1979-08-24,1981-01-20,Carter,Jimmy,0,NA,515,Jimmy Carter
+501,Shirley Mount,Hufstedler,Secretary of Education,1979-11-30,1981-01-20,Carter,Jimmy,0,NA,417,Jimmy Carter
+502,Alexander M.,"Haig, Jr.",Secretary of State,1981-01-22,1982-07-05,Reagan,Ronald,0,Resigned,529,Ronald Reagan
+503,George P.,Shultz,Secretary of State,1982-07-16,1989-01-20,Reagan,Ronald,0,End of President's term,2380,Ronald Reagan
+504,Donald T.,Regan,Secretary of the Treasury,1981-01-22,1985-02-02,Reagan,Ronald,0,NA,1472,Ronald Reagan
+505,James A.,"Baker, III",Secretary of the Treasury,1985-02-03,1988-08-17,Reagan,Ronald,0,NA,1291,Ronald Reagan
+506,Nicholas F.,Brady,Secretary of the Treasury,1988-09-16,1989-01-20,Reagan,Ronald,0,NA,126,Ronald Reagan
+507,Nicholas F.,Brady,Secretary of the Treasury,1989-01-20,1993-01-17,Bush,George H. W.,0,NA,1458,George H. W. Bush
+508,Casper W.,Weinberger,Secretary of Defense,1981-01-21,1987-11-23,Reagan,Ronald,0,NA,2497,Ronald Reagan
+509,Frank C.,Carlucci,Secretary of Defense,1987-11-23,1989-01-20,Reagan,Ronald,0,NA,424,Ronald Reagan
+510,William French,Smith,Attorney General,1981-01-23,1985-02-25,Reagan,Ronald,0,NA,1494,Ronald Reagan
+511,Edwin,"Meese, III",Attorney General,1985-02-25,1988-08-12,Reagan,Ronald,0,NA,1264,Ronald Reagan
+512,James G.,Watt,Secretary of the Interior,1981-01-23,1983-11-08,Reagan,Ronald,0,NA,1019,Ronald Reagan
+513,William P.,Clark,Secretary of the Interior,1983-11-18,1985-02-07,Reagan,Ronald,0,NA,447,Ronald Reagan
+514,Donald P.,Hodel,Secretary of the Interior,1985-02-08,1989-01-20,Reagan,Ronald,0,NA,1442,Ronald Reagan
+515,John R.,Block,Secretary of Agriculture,1981-01-23,1986-02-14,Reagan,Ronald,0,NA,1848,Ronald Reagan
+516,Richard E.,Lyng,Secretary of Agriculture,1986-02-22,1989-01-20,Reagan,Ronald,0,NA,1063,Ronald Reagan
+517,Malcolm,Baldrige,Secretary of Commerce,1981-01-20,1987-07-25,Reagan,Ronald,0,NA,2377,Ronald Reagan
+518,C. William,"Verity, Jr.",Secretary of Commerce,1987-10-19,1989-01-30,Reagan,Ronald,0,NA,469,Ronald Reagan
+519,Raymond J.,Donovan,Secretary of Labor,1981-02-04,1985-03-15,Reagan,Ronald,0,NA,1500,Ronald Reagan
+520,William E.,Brock,Secretary of Labor,1985-04-29,1987-10-31,Reagan,Ronald,0,NA,915,Ronald Reagan
+521,Ann Dore,McLaughlin,Secretary of Labor,1987-12-17,1989-01-20,Reagan,Ronald,0,NA,400,Ronald Reagan
+522,Richard S.,Schweiker,Secretary of Health and Human Services,1981-01-22,1983-02-03,Reagan,Ronald,0,NA,742,Ronald Reagan
+523,Margaret M.,Heckler,Secretary of Health and Human Services,1983-03-09,1985-12-13,Reagan,Ronald,0,NA,1010,Ronald Reagan
+524,Otis R.,Bowen,Secretary of Health and Human Services,1985-12-13,1989-01-20,Reagan,Ronald,0,NA,1134,Ronald Reagan
+525,Samuel R.,"Pierce, Jr.",Secretary of Housing and Urban Development,1981-01-23,1989-01-20,Reagan,Ronald,0,NA,2919,Ronald Reagan
+526,Andrew L.,"Lewis, Jr.",Secretary of Transportation,1981-01-23,1983-02-01,Reagan,Ronald,0,NA,739,Ronald Reagan
+527,Elizabeth H.,Dole,Secretary of Transportation,1983-02-07,1987-09-30,Reagan,Ronald,0,NA,1696,Ronald Reagan
+528,James H.,"Burnley, IV",Secretary of Transportation,1987-12-03,1989-01-20,Reagan,Ronald,0,NA,414,Ronald Reagan
+529,James B.,Edwards,Secretary of Energy,1981-01-23,1982-11-05,Reagan,Ronald,0,NA,651,Ronald Reagan
+530,Donald P.,Hodel,Secretary of Energy,1982-11-05,1985-02-07,Reagan,Ronald,0,NA,825,Ronald Reagan
+531,John S.,Herrington,Secretary of Energy,1985-02-07,1989-01-20,Reagan,Ronald,0,NA,1443,Ronald Reagan
+532,Terrel H.,Bell,Secretary of Education,1981-01-22,1985-01-20,Reagan,Ronald,0,NA,1459,Ronald Reagan
+533,William J.,Bennett,Secretary of Education,1985-02-06,1988-09-20,Reagan,Ronald,0,NA,1322,Ronald Reagan
+534,Lauro F.,Cavazos,Secretary of Education,1988-09-20,1989-01-20,Reagan,Ronald,0,NA,122,Ronald Reagan
+535,Lauro F.,Cavazos,Secretary of Education,1989-01-20,1990-12-12,Bush,George H. W.,0,NA,691,George H. W. Bush
+536,James A.,"Baker, III",Secretary of State,1989-01-25,1992-08-23,Bush,George H. W.,0,Resigned,1306,George H. W. Bush
+537,Lawrence S.,Eagleburger,Secretary of State,1992-12-08,1993-01-19,Bush,George H. W.,0,End of President's term,42,George H. W. Bush
+539,Richard,Cheney,Secretary of Defense,1989-03-21,1993-01-20,Bush,George H. W.,0,NA,1401,George H. W. Bush
+540,Richard L.,Thornburgh,Attorney General,1989-01-20,1991-08-15,Bush,George H. W.,0,NA,937,George H. W. Bush
+541,Richard L.,Thornburgh,Attorney General,1988-08-12,1989-01-20,Reagan,Ronald,0,NA,161,Ronald Reagan
+542,William P.,Barr,Attorney General,1991-11-26,1993-01-20,Bush,George H. W.,0,NA,421,George H. W. Bush
+543,Manuel,"Lujan, Jr.",Secretary of the Interior,1989-02-03,1993-01-20,Bush,George H. W.,0,NA,1447,George H. W. Bush
+544,Clayton K.,Yeutter,Secretary of Agriculture,1989-02-16,1991-03-01,Bush,George H. W.,0,NA,743,George H. W. Bush
+545,Edward,Madigan,Secretary of Agriculture,1991-03-12,1993-01-20,Bush,George H. W.,0,NA,680,George H. W. Bush
+546,Robert A.,"Mosbacher, Sr.",Secretary of Commerce,1989-01-31,1992-01-15,Bush,George H. W.,0,NA,1079,George H. W. Bush
+547,Barbara H.,Franklin,Secretary of Commerce,1992-02-27,1993-01-20,Bush,George H. W.,0,NA,328,George H. W. Bush
+548,Elizabeth H.,Dole,Secretary of Labor,1989-01-25,1990-11-23,Bush,George H. W.,0,NA,667,George H. W. Bush
+549,Lynn,Martin,Secretary of Labor,1991-02-22,1993-01-20,Bush,George H. W.,0,NA,698,George H. W. Bush
+550,Louis W.,Sullivan,Secretary of Health and Human Services,1989-03-01,1993-01-20,Bush,George H. W.,0,NA,1421,George H. W. Bush
+551,Jack F.,Kemp,Secretary of Housing and Urban Development,1989-02-13,1993-01-19,Bush,George H. W.,0,NA,1436,George H. W. Bush
+552,Samuel K.,Skinner,Secretary of Transportation,1989-02-06,1991-12-13,Bush,George H. W.,0,NA,1040,George H. W. Bush
+553,Andrew,Card,Secretary of Transportation,1992-02-24,1993-01-20,Bush,George H. W.,0,NA,331,George H. W. Bush
+554,James D.,Watkins,Secretary of Energy,1989-03-01,1993-01-20,Bush,George H. W.,0,NA,1421,George H. W. Bush
+555,Lamar,Alexander,Secretary of Education,1991-03-22,1993-01-20,Bush,George H. W.,0,NA,670,George H. W. Bush
+556,Edward J.,Derwinski,Secretary of Veterans' Affairs,1989-03-15,1992-09-26,Bush,George H. W.,0,NA,1291,George H. W. Bush
+557,Warren M.,Christopher,Secretary of State,1993-01-20,1997-01-17,Clinton,William,0,Resigned,1458,Bill Clinton
+558,Madeleine,Albright,Secretary of State,1997-01-23,2001-01-19,Clinton,William,0,End of President's term,1457,Bill Clinton
+559,Lloyd,Bentsen,Secretary of the Treasury,1993-01-22,1994-12-22,Clinton,William,0,NA,699,Bill Clinton
+560,Robert E.,Rubin,Secretary of the Treasury,1995-01-10,1999-07-02,Clinton,William,0,NA,1634,Bill Clinton
+561,Lawrence H.,Summers,Secretary of the Treasury,1999-07-02,2001-01-20,Clinton,William,0,NA,568,Bill Clinton
+562,Les,Aspin,Secretary of Defense,1993-01-21,1994-02-03,Clinton,William,0,NA,378,Bill Clinton
+563,William J.,Perry,Secretary of Defense,1994-02-03,1997-01-23,Clinton,William,0,NA,1085,Bill Clinton
+564,William S.,Cohen,Secretary of Defense,1997-01-24,2001-01-20,Clinton,William,0,NA,1457,Bill Clinton
+565,Janet,Reno,Attorney General,1993-03-12,2001-01-20,Clinton,William,0,NA,2871,Bill Clinton
+566,Bruce,Babbitt,Secretary of the Interior,1993-01-22,2001-01-02,Clinton,William,0,NA,2902,Bill Clinton
+567,Mike,Epsy,Secretary of Agriculture,1993-01-22,1994-12-31,Clinton,William,0,NA,708,Bill Clinton
+568,Dan,Glickman,Secretary of Agriculture,1995-03-30,2001-01-19,Clinton,William,0,NA,2122,Bill Clinton
+569,Ronald H.,Brown,Secretary of Commerce,1993-01-20,1996-04-03,Clinton,William,0,NA,1169,Bill Clinton
+570,Mickey,Kantor,Secretary of Commerce,1996-04-12,1997-01-21,Clinton,William,0,NA,284,Bill Clinton
+571,William M.,Daley,Secretary of Commerce,1997-01-30,2000-07-19,Clinton,William,0,NA,1266,Bill Clinton
+572,Norman Y.,Mineta,Secretary of Commerce,2000-07-21,2001-01-20,Clinton,William,0,NA,183,Bill Clinton
+573,Robert B.,Reich,Secretary of Labor,1993-01-22,1997-01-20,Clinton,William,0,NA,1459,Bill Clinton
+574,Alexis,Herman,Secretary of Labor,1997-05-01,2001-01-20,Clinton,William,0,NA,1360,Bill Clinton
+575,Donna E.,Shalala,Secretary of Health and Human Services,1993-01-22,2001-01-20,Clinton,William,0,NA,2920,Bill Clinton
+576,Henry G.,Cisneros,Secretary of Housing and Urban Development,1993-01-22,1997-01-19,Clinton,William,0,NA,1458,Bill Clinton
+577,Andrew M.,Cuomo,Secretary of Housing and Urban Development,1997-01-29,2001-01-20,Clinton,William,0,NA,1452,Bill Clinton
+578,Frederico F.,Pena,Secretary of Transportation,1993-01-21,1997-02-14,Clinton,William,0,NA,1485,Bill Clinton
+579,Rodney,Slater,Secretary of Transportation,1997-02-14,2001-01-20,Clinton,William,0,NA,1436,Bill Clinton
+580,Hazel R.,O'Leary,Secretary of Energy,1993-01-22,1997-01-20,Clinton,William,0,NA,1459,Bill Clinton
+581,Frederico F.,Pena,Secretary of Energy,1997-03-12,1998-06-30,Clinton,William,0,NA,475,Bill Clinton
+582,Bill,Richardson,Secretary of Energy,1998-08-08,2001-01-20,Clinton,William,0,NA,896,Bill Clinton
+583,Richard W.,Riley,Secretary of Education,1993-01-21,2001-01-20,Clinton,William,0,NA,2921,Bill Clinton
+584,Jesse,Brown,Secretary of Veterans' Affairs,1993-01-22,1997-07-01,Clinton,William,0,NA,1621,Bill Clinton
+585,Togo D.,"West, Jr.",Secretary of Veterans' Affairs,1998-05-05,2000-07-25,Clinton,William,0,NA,812,Bill Clinton
+586,Colin,Powell,Secretary of State,2001-01-20,2005-01-25,Bush,George W.,0,Resigned,1466,George W. Bush
+587,Condoleezza,Rice,Secretary of State,2005-01-26,2009-01-20,Bush,George W.,0,End of President's term,1455,George W. Bush
+588,Paul,O'Neill,Secretary of the Treasury,2001-01-30,2002-12-31,Bush,George W.,0,NA,700,George W. Bush
+589,Henry,Paulson,Secretary of the Treasury,2006-07-10,2009-01-20,Bush,George W.,0,NA,925,George W. Bush
+590,John W.,Snow,Secretary of the Treasury,2003-02-03,2006-06-29,Bush,George W.,0,NA,1242,George W. Bush
+591,Donald,Rumsfeld,Secretary of Defense,2001-01-20,2006-12-18,Bush,George W.,0,NA,2158,George W. Bush
+592,John,Ashcroft,Attorney General,2001-02-02,2005-02-03,Bush,George W.,0,NA,1462,George W. Bush
+593,Michael,Mukasey,Attorney General,2007-11-09,2009-01-20,Bush,George W.,0,NA,438,George W. Bush
+594,Alberto,Gonzales,Attorney General,2005-02-03,2007-09-17,Bush,George W.,0,NA,956,George W. Bush
+595,Gale,Norton,Secretary of the Interior,2001-01-31,2006-03-31,Bush,George W.,0,NA,1885,George W. Bush
+596,Dirk,Kempthorne,Secretary of the Interior,2006-05-29,2009-01-19,Bush,George W.,0,NA,966,George W. Bush
+597,Ann,Veneman,Secretary of Agriculture,2001-01-20,2005-01-20,Bush,George W.,0,NA,1461,George W. Bush
+598,Ed,Schafer,Secretary of Agriculture,2008-01-28,2009-01-20,Bush,George W.,0,NA,358,George W. Bush
+599,Mike,Johanns,Secretary of Agriculture,2005-01-21,2007-09-20,Bush,George W.,0,NA,972,George W. Bush
+600,Donald,Evans,Secretary of Commerce,2001-01-20,2005-02-07,Bush,George W.,0,NA,1479,George W. Bush
+601,Carlos,Gutierrez,Secretary of Commerce,2005-02-07,2009-01-20,Bush,George W.,0,NA,1443,George W. Bush
+602,Elaine,Chao,Secretary of Labor,2001-01-29,2009-01-20,Bush,George W.,0,NA,2913,George W. Bush
+603,Tommy,Thompson,Secretary of Health and Human Services,2001-02-02,2005-01-26,Bush,George W.,0,NA,1454,George W. Bush
+604,Mike,Leavitt,Secretary of Health and Human Services,2005-01-26,2009-01-20,Bush,George W.,0,NA,1455,George W. Bush
+605,Rod,Paige,Secretary of Education,2001-01-20,2005-01-20,Bush,George W.,0,NA,1461,George W. Bush
+606,Margaret,Spellings,Secretary of Education,2005-01-20,2009-01-20,Bush,George W.,0,NA,1461,George W. Bush
+607,Mel,Martinez,Secretary of Housing and Urban Development,2001-01-24,2003-12-12,Bush,George W.,0,NA,1052,George W. Bush
+608,Steve,Preston,Secretary of Housing and Urban Development,2008-06-05,2009-01-20,Bush,George W.,0,NA,229,George W. Bush
+609,Alphonso,Jackson,Secretary of Housing and Urban Development,2004-03-31,2008-04-18,Bush,George W.,0,NA,1479,George W. Bush
+610,Norman,Mineta,Secretary of Transportation,2001-01-25,2006-08-07,Bush,George W.,0,NA,2020,George W. Bush
+611,Mary,Peters,Secretary of Transportation,2006-10-17,2009-01-20,Bush,George W.,0,NA,826,George W. Bush
+612,Spencer,Abraham,Secretary of Energy,2001-01-20,2005-01-31,Bush,George W.,0,NA,1472,George W. Bush
+613,Samuel,Bodman,Secretary of Energy,2005-02-01,2009-01-20,Bush,George W.,0,NA,1449,George W. Bush
+614,Anthony,Principi,Secretary of Veterans' Affairs,2001-01-23,2005-01-26,Bush,George W.,0,NA,1464,George W. Bush
+615,James,Peake,Secretary of Veterans' Affairs,2007-12-20,2009-01-20,Bush,George W.,0,NA,397,George W. Bush
+616,Jim,Nicholson,Secretary of Veterans' Affairs,2005-01-26,2007-10-01,Bush,George W.,0,NA,978,George W. Bush
+617,Tom,Ridge,Secretary of Homeland Security,2003-01-24,2005-02-01,Bush,George W.,0,NA,739,George W. Bush
+618,Michael,Chertoff,Secretary of Homeland Security,2005-02-15,2009-01-21,Bush,George W.,0,NA,1436,George W. Bush
+619,Hillary,Clinton,Secretary of State,2009-01-21,2013-02-01,Obama,Barack,0,Resigned,1472,Barack Obama
+620,John,Kerry,Secretary of State,2013-02-01,2017-01-20,Obama,Barack,0,End of President's term,1449,Barack Obama
+621,Tim,Geithner,Secretary of the Treasury,2009-01-26,2013-01-25,Obama,Barack,0,NA,1460,Barack Obama
+622,Jack,Lew,Secretary of the Treasury,2013-02-28,2017-01-20,Obama,Barack,0,NA,1422,Barack Obama
+623,Robert,Gates,Secretary of Defense,2006-12-18,2011-06-30,Bush,George W.,0,NA,1655,George W. Bush
+624,Ash,Carter,Secretary of Defense,2015-02-17,2017-01-20,Obama,Barack,0,NA,703,Barack Obama
+625,Chuck,Hagel,Secretary of Defense,2013-02-27,2015-02-17,Obama,Barack,0,NA,720,Barack Obama
+626,Leon,Panetta,Secretary of Defense,2011-07-01,2013-02-26,Obama,Barack,0,NA,606,Barack Obama
+627,Eric,Holder,Attorney General,2009-02-03,2015-04-27,Obama,Barack,0,NA,2274,Barack Obama
+628,Loretta,Lynch,Attorney General,2015-04-27,2017-01-20,Obama,Barack,0,NA,634,Barack Obama
+629,Ken,Salazar,Secretary of the Interior,2009-01-20,2013-04-12,Obama,Barack,0,NA,1543,Barack Obama
+630,Sally,Jewell,Secretary of the Interior,2013-04-12,2017-01-20,Obama,Barack,0,NA,1379,Barack Obama
+631,Tom,Vilsack,Secretary of Agriculture,2009-01-20,2017-01-13,Obama,Barack,0,NA,2915,Barack Obama
+632,Gary,Locke,Secretary of Commerce,2009-03-26,2011-08-01,Obama,Barack,0,NA,858,Barack Obama
+633,Penny,Pritzker,Secretary of Commerce,2013-06-26,2017-01-20,Obama,Barack,0,NA,1304,Barack Obama
+634,John,Bryson,Secretary of Commerce,2011-10-21,2012-06-11,Obama,Barack,0,NA,234,Barack Obama
+635,Hilda,Solis,Secretary of Labor,2009-02-24,2013-01-22,Obama,Barack,0,NA,1428,Barack Obama
+636,Thomas,Perez,Secretary of Labor,2013-07-23,2017-01-20,Obama,Barack,0,NA,1277,Barack Obama
+637,Kathleen,Sibelius,Secretary of Health and Human Services,2009-04-28,2014-06-06,Obama,Barack,0,NA,1865,Barack Obama
+638,Sylvia,Burwell,Secretary of Health and Human Services,2014-06-09,2017-01-20,Obama,Barack,0,NA,956,Barack Obama
+639,Arne,Duncan,Secretary of Education,2009-01-21,2016-01-01,Obama,Barack,0,NA,2536,Barack Obama
+640,John,King,Secretary of Education,2016-03-14,2017-01-20,Obama,Barack,0,NA,312,Barack Obama
+641,Shaun,Donovan,Secretary of Housing and Urban Development,2009-01-26,2014-07-28,Obama,Barack,0,NA,2009,Barack Obama
+642,Julian,Castro,Secretary of Housing and Urban Development,2014-07-28,2017-01-20,Obama,Barack,0,NA,907,Barack Obama
+643,Ray,LaHood,Secretary of Transportation,2009-01-23,2013-07-02,Obama,Barack,0,NA,1621,Barack Obama
+644,Anthony,Foxx,Secretary of Transportation,2013-07-02,2017-01-20,Obama,Barack,0,NA,1298,Barack Obama
+645,Steven,Chu,Secretary of Energy,2009-01-21,2013-04-22,Obama,Barack,0,NA,1552,Barack Obama
+646,Ernest,Moniz,Secretary of Energy,2013-05-21,2017-01-20,Obama,Barack,0,NA,1340,Barack Obama
+647,Eric,Shinseki,Secretary of Veterans' Affairs,2009-01-20,2014-05-30,Obama,Barack,0,NA,1956,Barack Obama
+648,Bob,McDonald,Secretary of Veterans' Affairs,2014-07-30,2017-01-20,Obama,Barack,0,NA,905,Barack Obama
+649,Janet,Napolitano,Secretary of Homeland Security,2009-01-20,2013-09-06,Obama,Barack,0,NA,1690,Barack Obama
+650,Jeh,Johnson,Secretary of Homeland Security,2013-12-23,2017-01-20,Obama,Barack,0,NA,1124,Barack Obama
+651,Rex,Tillerson,Secretary of State,2017-02-01,2018-03-31,Trump,Donald,0,Replaced,423,Donald Trump
+652,Mike,Pompeo,Secretary of State,2018-04-26,NA,Trump,Donald,0,Incumbent,NA,Donald Trump
+653,Steven,Mnuchin,Secretary of the Treasury,2017-02-13,NA,Trump,Donald,0,NA,NA,Donald Trump
+654,James,Mattis,Secretary of Defense,2017-01-20,2018-12-31,Trump,Donald,0,NA,710,Donald Trump
+655,Jeff,Sessions,Attorney General,2017-02-09,2018-11-07,Trump,Donald,0,NA,636,Donald Trump
+657,Ryan,Zinke,Secretary of the Interior,2017-03-02,2019-01-02,Trump,Donald,0,NA,671,Donald Trump
+658,Sonny,Perdue,Secretary of Agriculture,2017-04-25,NA,Trump,Donald,0,NA,NA,Donald Trump
+659,Wilbur,Ross,Secretary of Commerce,2017-02-28,NA,Trump,Donald,0,NA,NA,Donald Trump
+660,Alexander,Acosta,Secretary of Labor,2017-04-28,NA,Trump,Donald,0,NA,NA,Donald Trump
+661,Tom,Price,Secretary of Health and Human Services,2017-02-10,2017-09-29,Trump,Donald,0,NA,231,Donald Trump
+662,Alex,Azar,Secretary of Health and Human Services,2018-01-29,NA,Trump,Donald,0,NA,NA,Donald Trump
+663,Betsy,DeVos,Secretary of Education,2017-02-07,NA,Trump,Donald,0,NA,NA,Donald Trump
+664,Ben,Carson,Secretary of Housing and Urban Development,2017-03-02,NA,Trump,Donald,0,NA,NA,Donald Trump
+665,Elaine,Chao,Secretary of Transportation,2017-01-31,NA,Trump,Donald,0,NA,NA,Donald Trump
+666,Rick,Perry,Secretary of Energy,2017-03-02,NA,Trump,Donald,0,NA,NA,Donald Trump
+667,David,Shulkin,Secretary of Veterans' Affairs,2017-02-14,2018-03-28,Trump,Donald,0,NA,407,Donald Trump
+668,Robert,Wilkie,Secretary of Veterans' Affairs,2018-07-30,NA,Trump,Donald,0,NA,NA,Donald Trump
+669,John F.,Kelly,Secretary of Homeland Security,2017-01-20,2017-07-28,Trump,Donald,0,NA,189,Donald Trump
+670,Kirstjen,Nielsen,Secretary of Homeland Security,2017-12-06,NA,Trump,Donald,0,NA,NA,Donald Trump
+775,Dean,Rusk,Secretary of State,1963-11-22,1969-01-20,Johnson,Lyndon B.,0,End of President's term,1886,Lyndon B. Johnson
+776,Dean,Rusk,Secretary of State,1961-01-21,1963-11-22,Kennedy,John F.,0,End of President's term,1035,John F. Kennedy
+777,J. Edward,Day,Postmaster General,1961-01-21,1963-08-09,Kennedy,John F.,0,NA,930,John F. Kennedy
+778,Arthur,Goldberg,Secretary of Labor,1961-01-21,1962-09-20,Kennedy,John F.,0,NA,607,John F. Kennedy
+779,Abraham A.,Ribicoff,"Secretary of Health, Education, and Welfare",1961-01-21,1962-07-13,Kennedy,John F.,0,NA,538,John F. Kennedy
+780,Dean G.,Acheson,Secretary of State,1949-01-21,1953-01-20,Truman,Harry S.,0,End of President's term,1460,Harry S. Truman
+781,George C.,Marshall,Secretary of State,1947-01-21,1949-01-20,Truman,Harry S.,0,Resigned,730,Harry S. Truman
+782,James F.,Byrnes,Secretary of State,1945-07-03,1947-01-21,Truman,Harry S.,0,Resigned,567,Harry S. Truman
+783,Henry,"Morgenthau, Jr.",Secretary of the Treasury,1934-01-01,1945-04-12,Roosevelt,Franklin D.,0,NA,4119,Franklin D. Roosevelt
+784,Henry,"Morgenthau, Jr.",Secretary of the Treasury,1945-04-12,1945-07-22,Truman,Harry S.,0,NA,101,Harry S. Truman
+785,John W.,Snyder,Secretary of the Treasury,1946-06-25,1953-01-20,Truman,Harry S.,0,NA,2401,Harry S. Truman
+786,Fred M.,Vinson,Secretary of the Treasury,1945-07-23,1946-06-23,Truman,Harry S.,0,NA,335,Harry S. Truman
+787,Kenneth C.,Royall,Secretary of War,1947-07-19,1947-09-18,Truman,Harry S.,0,NA,61,Harry S. Truman
+788,Robert P.,Patterson,Secretary of War,1945-09-27,1947-07-18,Truman,Harry S.,0,NA,659,Harry S. Truman
+789,James V.,Forrestal,Secretary of Defense,1947-09-17,1949-03-28,Truman,Harry S.,0,NA,558,Harry S. Truman
+790,Robert A.,Lovett,Secretary of Defense,1951-09-17,1953-01-20,Truman,Harry S.,0,NA,491,Harry S. Truman
+791,George C.,Marshall,Secretary of Defense,1950-09-21,1951-09-12,Truman,Harry S.,0,NA,356,Harry S. Truman
+792,Louis A.,Johnson,Secretary of Defense,1949-03-28,1950-09-19,Truman,Harry S.,0,NA,540,Harry S. Truman
+793,Francis,Biddle,Attorney General,1941-08-26,1945-04-12,Roosevelt,Franklin D.,0,NA,1325,Franklin D. Roosevelt
+794,Francis,Biddle,Attorney General,1945-04-12,1945-06-26,Truman,Harry S.,0,NA,75,Harry S. Truman
+795,James P.,McGranery,Attorney General,1952-04-04,1953-01-20,Truman,Harry S.,0,NA,291,Harry S. Truman
+796,J. Howard,McGrath,Attorney General,1949-07-27,1952-04-03,Truman,Harry S.,0,NA,981,Harry S. Truman
+797,Tom C.,Clark,Attorney General,1945-06-17,1949-07-26,Truman,Harry S.,0,NA,1500,Harry S. Truman
+798,Frank C.,Walker,Postmaster General,1940-09-11,1945-05-08,Roosevelt,Franklin D.,0,NA,1700,Franklin D. Roosevelt
+799,Jesse M.,Donaldson,Postmaster General,1947-12-16,1953-01-20,Truman,Harry S.,0,NA,1862,Harry S. Truman
+800,Robert E.,Hannegan,Postmaster General,1945-06-30,1947-12-15,Truman,Harry S.,0,NA,898,Harry S. Truman
+801,Oscar L.,Chapman,Secretary of the Interior,1949-12-01,1953-01-20,Truman,Harry S.,0,NA,1146,Harry S. Truman
+802,Julius A.,Krug,Secretary of the Interior,1946-03-18,1949-12-01,Truman,Harry S.,0,NA,1354,Harry S. Truman
+803,Claude R.,Wickard,Secretary of Agriculture,1940-09-05,1945-04-12,Roosevelt,Franklin D.,0,NA,1680,Franklin D. Roosevelt
+804,Charles F.,Brannan,Secretary of Agriculture,1948-06-02,1953-01-20,Truman,Harry S.,0,NA,1693,Harry S. Truman
+805,Clinton P.,Anderson,Secretary of Agriculture,1945-06-30,1948-05-10,Truman,Harry S.,0,NA,1045,Harry S. Truman
+806,Henry A.,Wallace,Secretary of Commerce,1945-04-12,1946-09-20,Truman,Harry S.,0,NA,526,Harry S. Truman
+807,Charles W.,Sawyer,Secretary of Commerce,1948-05-06,1953-01-20,Truman,Harry S.,0,NA,1720,Harry S. Truman
+808,W. Averell,Harriman,Secretary of Commerce,1946-10-07,1948-04-22,Truman,Harry S.,0,NA,563,Harry S. Truman
+809,Maurice J.,Tobin,Secretary of Labor,1948-08-13,1953-01-20,Truman,Harry S.,0,NA,1621,Harry S. Truman
+810,Lewis B.,Schwellenbach,Secretary of Labor,1945-07-01,1948-06-10,Truman,Harry S.,0,NA,1075,Harry S. Truman
+811,Philander C.,Knox,Secretary of State,1909-03-06,1913-03-05,Taft,William H.,0,End of President's term,1460,William Howard Taft
+812,Franklin,MacVeagh,Secretary of the Treasury,1909-03-08,1913-03-05,Taft,William H.,0,NA,1458,William Howard Taft
+813,Jacob M.,Dickinson,Secretary of War,1909-03-12,1911-05-21,Taft,William H.,0,NA,800,William Howard Taft
+814,Henry L.,Stimson,Secretary of War,1911-05-22,1913-03-04,Taft,William H.,0,NA,652,William Howard Taft
+815,George W.,Wickersham,Attorney General,1909-03-04,1913-03-04,Taft,William H.,0,NA,1461,William Howard Taft
+816,Frank H.,Hitchcock,Postmaster General,1909-03-06,1913-03-04,Taft,William H.,0,NA,1459,William Howard Taft
+817,George,von L. Meyer,Secretary of the Navy,1909-03-06,1913-03-04,Taft,William H.,0,NA,1459,William Howard Taft
+818,Richard A.,Ballinger,Secretary of the Interior,1909-03-06,1911-03-12,Taft,William H.,0,NA,736,William Howard Taft
+819,Walter L.,Fisher,Secretary of the Interior,1911-03-13,1913-03-05,Taft,William H.,0,NA,723,William Howard Taft
+820,Charles,Nagel,Secretary of Commerce & Labor,1909-03-06,1913-03-04,Taft,William H.,0,NA,1459,William Howard Taft
+821,Robert,Bacon,Secretary of State,1909-01-27,1909-03-05,Roosevelt,Theodore,0,End of President's term,37,Theodore Roosevelt
+822,Elihu,Root,Secretary of State,1905-07-19,1909-01-27,Roosevelt,Theodore,0,Resigned,1288,Theodore Roosevelt
+823,Lyman J.,Gage,Secretary of the Treasury,1897-03-06,1901-09-14,McKinley,William,0,NA,1652,William McKinley
+824,Lyman J.,Gage,Secretary of the Treasury,1901-09-14,1902-01-31,Roosevelt,Theodore,0,NA,139,Theodore Roosevelt
+825,George B.,Cortelyou,Secretary of the Treasury,1907-03-04,1909-03-07,Roosevelt,Theodore,0,NA,734,Theodore Roosevelt
+826,Leslie M.,Shaw,Secretary of the Treasury,1902-02-01,1907-03-03,Roosevelt,Theodore,0,NA,1856,Theodore Roosevelt
+827,Elihu,Root,Secretary of War,1899-08-01,1901-09-14,McKinley,William,0,NA,774,William McKinley
+828,Elihu,Root,Secretary of War,1901-09-14,1904-01-31,Roosevelt,Theodore,0,NA,869,Theodore Roosevelt
+829,Luke E.,Wright,Secretary of War,1908-07-01,1909-03-04,Roosevelt,Theodore,0,NA,246,Theodore Roosevelt
+830,William Howard,Taft,Secretary of War,1904-02-01,1908-06-30,Roosevelt,Theodore,0,NA,1611,Theodore Roosevelt
+831,Philander C.,Knox,Attorney General,1901-04-05,1901-09-14,McKinley,William,0,NA,162,William McKinley
+832,Philander C.,Knox,Attorney General,1901-09-14,1904-06-30,Roosevelt,Theodore,0,NA,1020,Theodore Roosevelt
+833,Charles J.,Bonaparte,Attorney General,1906-12-17,1909-03-04,Roosevelt,Theodore,0,NA,808,Theodore Roosevelt
+834,William H.,Moody,Attorney General,1904-07-01,1906-12-17,Roosevelt,Theodore,0,NA,899,Theodore Roosevelt
+835,Charles E.,Smith,Postmaster General,1898-04-21,1901-09-14,McKinley,William,0,NA,1241,William McKinley
+836,Charles E.,Smith,Postmaster General,1901-09-14,1902-01-08,Roosevelt,Theodore,0,NA,116,Theodore Roosevelt
+837,Robert J.,Wynne,Postmaster General,1904-10-10,1905-03-05,Roosevelt,Theodore,0,NA,146,Theodore Roosevelt
+838,Henry C.,Payne,Postmaster General,1902-01-15,1904-10-04,Roosevelt,Theodore,0,NA,993,Theodore Roosevelt
+839,George,von L. Meyer,Postmaster General,1907-03-05,1909-03-04,Roosevelt,Theodore,0,NA,730,Theodore Roosevelt
+840,George B.,Cortelyou,Postmaster General,1905-03-07,1907-01-14,Roosevelt,Theodore,0,NA,678,Theodore Roosevelt
+841,Paul,Morton,Secretary of the Navy,1904-07-01,1905-06-30,Roosevelt,Theodore,0,NA,364,Theodore Roosevelt
+842,William H.,Moody,Secretary of the Navy,1902-05-01,1904-06-30,Roosevelt,Theodore,0,NA,791,Theodore Roosevelt
+843,Victor H.,Metcalf,Secretary of the Navy,1906-12-17,1908-11-30,Roosevelt,Theodore,0,NA,714,Theodore Roosevelt
+844,Charles J.,Bonaparte,Secretary of the Navy,1905-07-01,1906-12-16,Roosevelt,Theodore,0,NA,533,Theodore Roosevelt
+845,Truman H.,Newberry,Secretary of the Navy,1908-12-01,1909-03-05,Roosevelt,Theodore,0,NA,94,Theodore Roosevelt
+846,Ethan A.,Hitchcock,Secretary of the Interior,1899-02-20,1901-09-14,McKinley,William,0,NA,936,William McKinley
+847,Ethan A.,Hitchcock,Secretary of the Interior,1901-09-14,1907-03-04,Roosevelt,Theodore,0,NA,1997,Theodore Roosevelt
+848,James Rudolph,Garfield,Secretary of the Interior,1907-03-05,1909-03-05,Roosevelt,Theodore,0,NA,731,Theodore Roosevelt
+849,George B.,Cortelyou,Secretary of Commerce & Labor,1903-02-18,1904-06-30,Roosevelt,Theodore,0,NA,498,Theodore Roosevelt
+850,Oscar S.,Straus,Secretary of Commerce & Labor,1906-12-17,1909-03-05,Roosevelt,Theodore,0,NA,809,Theodore Roosevelt
+851,Victor H.,Metcalf,Secretary of Commerce & Labor,1904-07-01,1906-12-16,Roosevelt,Theodore,0,NA,898,Theodore Roosevelt
+852,Frederick T.,Frelinghuysen,Secretary of State,1881-12-19,1885-03-05,Arthur,Chester A.,0,End of President's term,1172,Chester A. Arthur
+853,William,Windom,Secretary of the Treasury,1881-03-08,1881-09-19,Garfield,James,0,NA,195,James A. Garfield
+854,William,Windom,Secretary of the Treasury,1881-09-20,1881-11-13,Arthur,Chester A.,0,NA,54,Chester A. Arthur
+855,Hugh,McCulloch,Secretary of the Treasury,1884-10-31,1885-03-07,Arthur,Chester A.,0,NA,127,Chester A. Arthur
+856,Walter Q.,Gresham,Secretary of the Treasury,1884-09-25,1884-10-30,Arthur,Chester A.,0,NA,35,Chester A. Arthur
+857,Charles J.,Folger,Secretary of the Treasury,1881-11-14,1884-09-04,Arthur,Chester A.,0,NA,1025,Chester A. Arthur
+858,Wayne,MacVeagh,Attorney General,1881-03-05,1881-09-19,Garfield,James,0,NA,198,James A. Garfield
+859,Wayne,MacVeagh,Attorney General,1881-09-19,1881-12-15,Arthur,Chester A.,0,NA,87,Chester A. Arthur
+860,Benjamin H.,Brewster,Attorney General,1881-12-16,1885-03-04,Arthur,Chester A.,0,NA,1174,Chester A. Arthur
+861,Thomas L.,James,Postmaster General,1881-03-05,1881-09-19,Garfield,James,0,NA,198,James A. Garfield
+862,Thomas L.,James,Postmaster General,1881-09-19,1881-12-20,Arthur,Chester A.,0,NA,92,Chester A. Arthur
+863,Frank,Hatton,Postmaster General,1884-10-14,1885-03-04,Arthur,Chester A.,0,NA,141,Chester A. Arthur
+864,Walter Q.,Gresham,Postmaster General,1883-04-03,1884-09-04,Arthur,Chester A.,0,NA,520,Chester A. Arthur
+865,Timothy O.,Howe,Postmaster General,1881-12-20,1883-03-25,Arthur,Chester A.,0,NA,460,Chester A. Arthur
+866,William E.,Chandler,Secretary of the Navy,1882-04-16,1885-03-06,Arthur,Chester A.,0,NA,1055,Chester A. Arthur
+867,Henry M.,Teller,Secretary of the Interior,1882-04-18,1885-03-03,Arthur,Chester A.,0,NA,1050,Chester A. Arthur
+957,Joseph,McKenna,Attorney General,1897-03-05,1898-01-25,McKinley,William,0,NA,326,William McKinley
+1096,Patricia Roberts,Harris,Secretary of Health and Human Services,1980-05-04,1981-01-20,Carter,Jimmy,0,NA,261,Jimmy Carter
+1162,William,Faxon,Secretary of the Navy,1877-03-04,1877-03-13,Hayes,Rutherford B.,0,NA,9,Rutherford B. Hayes
+1195,Claude R.,Wickard,Secretary of Agriculture,1945-04-12,1945-06-29,Truman,Harry S.,0,NA,78,Harry S. Truman

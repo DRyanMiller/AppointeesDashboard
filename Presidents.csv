@@ -1,0 +1,46 @@
+"","S.No.","start","end","president","prior","party","vice","TermLength"
+"1",1,1789-04-30,1797-03-04,"George Washington","Commander-in-Chief  of the  Continental Army   ( 1775-1783 )","Nonpartisan","John Adams",2865
+"2",2,1797-03-04,1801-03-04,"John Adams","1st  Vice President of the United States","Federalist","Thomas Jefferson",1460
+"3",3,1801-03-04,1809-03-04,"Thomas Jefferson","2nd  Vice President of the United States","Democratic-Republican","Aaron Burr",2922
+"4",4,1809-03-04,1817-03-04,"James Madison","5th  United States Secretary of State   (1801-1809)","Democratic-Republican","George Clinton",2922
+"5",5,1817-03-04,1825-03-04,"James Monroe","7th  United States Secretary of State   (1811-1817)","Democratic-Republican","Daniel D. Tompkins",2922
+"6",6,1825-03-04,1829-03-04,"John Quincy Adams","8th  United States Secretary of State   (1817-1825)","Democratic-Republican","John C. Calhoun",1461
+"7",7,1829-03-04,1837-03-04,"Andrew Jackson","U.S. Senator   ( Class 2 )   from  Tennessee   (1823-1825)","Democratic","John C. Calhoun",2922
+"8",8,1837-03-04,1841-03-04,"Martin Van Buren","8th  Vice President of the United States","Democratic","Richard Mentor Johnson",1461
+"9",9,1841-03-04,1841-04-04,"William Henry Harrison","United States Minister to Colombia   (1828-1829)","Whig","John Tyler",31
+"10",10,1841-04-04,1845-03-04,"John Tyler","10th  Vice President of the United States","Whig","Office vacant",1430
+"11",11,1845-03-04,1849-03-04,"James K. Polk","9th  Governor of Tennessee   (1839-1841)","Democratic","George M. Dallas",1461
+"12",12,1849-03-04,1850-07-09,"Zachary Taylor","Major General  of the  1st Infantry Regiment   United States Army   (1846-1849)","Whig","Millard Fillmore",492
+"13",13,1850-07-09,1853-03-04,"Millard Fillmore","12th  Vice President of the United States","Whig","Office vacant",969
+"14",14,1853-03-04,1857-03-04,"Franklin Pierce","Brigadier General  of the  9th Infantry   United States Army   (1847-1848)","Democratic","William R. King",1461
+"15",15,1857-03-04,1861-03-04,"James Buchanan","United States Minister  to the   Court of St James's   (1853-1856)","Democratic","John C. Breckinridge",1461
+"16",16,1861-03-04,1865-04-15,"Abraham Lincoln","U.S. Representative  for  Illinois' 7th District   (1847-1849)","Republican","Hannibal Hamlin",1503
+"17",17,1865-04-15,1869-03-04,"Andrew Johnson","16th  Vice President of the United States","Democratic","Office vacant",1419
+"18",18,1869-03-04,1877-03-04,"Ulysses S. Grant","Commanding General  of the U.S. Army   ( 1864-1869 )","Republican","Schuyler Colfax",2922
+"19",19,1877-03-04,1881-03-04,"Rutherford B. Hayes","29th & 32nd  Governor of Ohio   (1868-1872 & 1876-1877)","Republican","William A. Wheeler",1461
+"20",20,1881-03-04,1881-09-19,"James A. Garfield","U.S. Representative  for  Ohio's 19th District   (1863-1881)","Republican","Chester A. Arthur",199
+"21",21,1881-09-19,1885-03-04,"Chester A. Arthur","20th  Vice President of the United States","Republican","Office vacant",1262
+"22",22,1885-03-04,1889-03-04,"Grover Cleveland","28th  Governor of New York   (1883-1885)","Democratic","Thomas A. Hendricks",1461
+"23",23,1889-03-04,1893-03-04,"Benjamin Harrison","U.S. Senator   ( Class 1 )   from  Indiana   (1881-1887)","Republican","Levi P. Morton",1461
+"24",24,1893-03-04,1897-03-04,"Grover Cleveland","22nd  President of the United States   (1885-1889)","Democratic","Adlai Stevenson",1461
+"25",25,1897-03-04,1901-09-14,"William McKinley","39th  Governor of Ohio   (1892-1896)","Republican","Garret Hobart",1654
+"26",26,1901-09-14,1909-03-04,"Theodore Roosevelt","25th  Vice President of the United States","Republican","Office vacant",2728
+"27",27,1909-03-04,1913-03-04,"William Howard Taft","42nd  United States Secretary of War   (1904-1908)","Republican","James S. Sherman",1461
+"28",28,1913-03-04,1921-03-04,"Woodrow Wilson","34th  Governor of New Jersey   (1911-1913)","Democratic","Thomas R. Marshall",2922
+"29",29,1921-03-04,1923-08-02,"Warren G. Harding","U.S. Senator   ( Class 3 )   from  Ohio   (1915-1921)","Republican","Calvin Coolidge",881
+"30",30,1923-08-02,1929-03-04,"Calvin Coolidge","29th  Vice President of the United States","Republican","Office vacant",2041
+"31",31,1929-03-04,1933-03-04,"Herbert Hoover","3rd  United States Secretary of Commerce   (1921-1928)","Republican","Charles Curtis",1461
+"32",32,1933-03-04,1945-04-12,"Franklin D. Roosevelt","44th  Governor of New York   ( 1929-1932 )","Democratic","John Nance Garner",4422
+"33",33,1945-04-12,1953-01-20,"Harry S. Truman","34th  Vice President of the United States","Democratic","Office vacant",2840
+"34",34,1953-01-20,1961-01-20,"Dwight D. Eisenhower","Supreme Allied Commander Europe   ( 1949-1952 )","Republican","Richard Nixon",2922
+"35",35,1961-01-20,1963-11-22,"John F. Kennedy","U.S. Senator   ( Class 1 )   from  Massachusetts   (1953-1960)","Democratic","Lyndon B. Johnson",1036
+"36",36,1963-11-22,1969-01-20,"Lyndon B. Johnson","37th  Vice President of the United States","Democratic","Office vacant",1886
+"37",37,1969-01-20,1974-08-09,"Richard Nixon","36th  Vice President of the United States   (1953-1961)","Republican","Spiro Agnew",2027
+"38",38,1974-08-09,1977-01-20,"Gerald Ford","40th  Vice President of the United States","Republican","Office vacant",895
+"39",39,1977-01-20,1981-01-20,"Jimmy Carter","76th  Governor of Georgia   (1971-1975)","Democratic","Walter Mondale",1461
+"40",40,1981-01-20,1989-01-20,"Ronald Reagan","33rd  Governor of California   ( 1967-1975 )","Republican","George H. W. Bush",2922
+"41",41,1989-01-20,1993-01-20,"George H. W. Bush","43rd  Vice President of the United States","Republican","Dan Quayle",1461
+"42",42,1993-01-20,2001-01-20,"Bill Clinton","40th & 42nd  Governor of Arkansas   (1979-1981 & 1983-1992)","Democratic","Al Gore",2922
+"43",43,2001-01-20,2009-01-20,"George W. Bush","46th  Governor of Texas   ( 1995-2000 )","Republican","Dick Cheney",2922
+"44",44,2009-01-20,2017-01-20,"Barack Obama","U.S. Senator   ( Class 3 )   from  Illinois   ( 2005-2008 )","Democratic","Joe Biden",2922
+"45",45,2017-01-20,NA,"Donald Trump","Chairman of   The Trump Organization   ( 1971-present )","Republican","Mike Pence",NA
